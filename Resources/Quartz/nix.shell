@@ -1,0 +1,24 @@
+{ pkgs ? import <nixpkgs> {} }:
+
+let
+  contentDir = "../../Notes";
+  publicDir = "../../docs";
+in
+pkgs.mkShell {
+  buildInputs = [
+    pkgs.nodejs
+    pkgs.nodePackages_latest.npm
+  ];
+
+  shellHook = ''
+    export CONTENT_DIR=${contentDir}
+    export PUBLIC_DIR=${publicDir}
+
+    if [ -d "node_modules" ]; then
+      echo "node_modules directory exists. Running npx quartz build..."
+      npx quartz build -d ${contentDir} -o ${publicDir}
+    else
+      echo "node_modules directory does not exist. Skipping npx quartz build."
+    fi
+  '';
+}

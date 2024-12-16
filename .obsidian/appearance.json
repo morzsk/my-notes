@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Minimal",
+  "textFontFamily": "American Typewriter",
+  "interfaceFontFamily": "American Typewriter",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "img-invert",
+    "theorem-callout"
+  ],
+  "accentColor": "#ff4d00",
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}

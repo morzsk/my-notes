@@ -1,0 +1,17 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Resources",
+  "userIgnoreFilters": [
+    "Resources/Quartz/"
+  ],
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"472ec92e58aca5b8","type":"group","x":240,"y":980,"width":310,"height":500,"label":"DOM"},
+		{"id":"9caca0df9e835b47","type":"group","x":-120,"y":620,"width":630,"height":220,"label":"State"},
+		{"id":"034f974b74c42295","type":"group","x":-160,"y":980,"width":310,"height":400,"label":"Component"},
+		{"id":"1c28f666ebd7c574","type":"text","text":"[[React Components]]","x":-125,"y":1000,"width":250,"height":60},
+		{"id":"5f858105fc84fb01","type":"text","text":"[[Javascript XML]]","x":-125,"y":1100,"width":250,"height":60},
+		{"id":"7f1631998a1a3f30","type":"text","text":"[[React Transpiler]]","x":-125,"y":1200,"width":250,"height":60},
+		{"id":"9c10905822245053","type":"text","text":"[[React State]]","x":75,"y":640,"width":250,"height":60},
+		{"id":"95c70ec425f5cb3c","type":"text","text":"[[React Props]]","x":-80,"y":760,"width":180,"height":60},
+		{"id":"3013f655852cf897","type":"text","text":"[[useState]]","x":300,"y":760,"width":180,"height":60},
+		{"id":"01c4ab44cde82063","type":"text","text":"React Features","x":600,"y":880,"width":250,"height":60},
+		{"id":"67645550e84e53cc","type":"text","text":"[[React Hooks]]","x":300,"y":880,"width":180,"height":60},
+		{"id":"fd6aa117bfff10e4","type":"text","text":"[[Javascript]]","x":-125,"y":1300,"width":250,"height":60},
+		{"id":"f48f54b6c890361b","type":"text","text":"[[React DOM]]","x":265,"y":1000,"width":250,"height":60},
+		{"id":"bb5cd8e73e72860a","type":"text","text":"[[Virtual Dom]]","x":265,"y":1100,"width":250,"height":60},
+		{"id":"b06065021199f2a7","type":"text","text":"[[React Reconciliation]]","x":265,"y":1200,"width":250,"height":60},
+		{"id":"70a0ff55c4732873","type":"text","text":"[[Real Dom]]","x":265,"y":1300,"width":250,"height":60},
+		{"id":"d632ac07e50bfe71","type":"text","text":"[[DOM]]","x":265,"y":1400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b63a49413cd14345","fromNode":"9c10905822245053","fromSide":"left","toNode":"95c70ec425f5cb3c","toSide":"top"},
+		{"id":"7cf9ae671905a83a","fromNode":"3013f655852cf897","fromSide":"top","toNode":"9c10905822245053","toSide":"right"},
+		{"id":"f65d8da735ca17d6","fromNode":"9c10905822245053","fromSide":"right","toNode":"3013f655852cf897","toSide":"top"},
+		{"id":"c5c29113132b3dce","fromNode":"5f858105fc84fb01","fromSide":"bottom","toNode":"7f1631998a1a3f30","toSide":"top"},
+		{"id":"88c6cac6b4f11d8c","fromNode":"7f1631998a1a3f30","fromSide":"bottom","toNode":"fd6aa117bfff10e4","toSide":"top"},
+		{"id":"b0b22096d0c811db","fromNode":"f48f54b6c890361b","fromSide":"bottom","toNode":"bb5cd8e73e72860a","toSide":"top"},
+		{"id":"f0ed5bae38c3c763","fromNode":"bb5cd8e73e72860a","fromSide":"bottom","toNode":"b06065021199f2a7","toSide":"top"},
+		{"id":"18010ca198cebc39","fromNode":"b06065021199f2a7","fromSide":"bottom","toNode":"70a0ff55c4732873","toSide":"top"},
+		{"id":"be2eead9c09878bf","fromNode":"70a0ff55c4732873","fromSide":"bottom","toNode":"d632ac07e50bfe71","toSide":"top"},
+		{"id":"6d9ae7a8430a1977","fromNode":"1c28f666ebd7c574","fromSide":"bottom","toNode":"5f858105fc84fb01","toSide":"top"},
+		{"id":"564f65a59cf639cb","fromNode":"95c70ec425f5cb3c","fromSide":"bottom","toNode":"034f974b74c42295","toSide":"top"},
+		{"id":"d4fc17ae74d4e47a","fromNode":"034f974b74c42295","fromSide":"top","toNode":"67645550e84e53cc","toSide":"left"},
+		{"id":"fc1f254a981ae4a2","fromNode":"67645550e84e53cc","fromSide":"left","toNode":"034f974b74c42295","toSide":"top"},
+		{"id":"d3a7507c55a1474b","fromNode":"67645550e84e53cc","fromSide":"top","toNode":"3013f655852cf897","toSide":"bottom"},
+		{"id":"a1872d764ebf2ac7","fromNode":"67645550e84e53cc","fromSide":"right","toNode":"01c4ab44cde82063","toSide":"left"},
+		{"id":"1f7ef8998934a03f","fromNode":"3013f655852cf897","fromSide":"bottom","toNode":"67645550e84e53cc","toSide":"top"},
+		{"id":"c4f021771d9a6154","fromNode":"fd6aa117bfff10e4","fromSide":"right","toNode":"f48f54b6c890361b","toSide":"left"}
+	]
+}

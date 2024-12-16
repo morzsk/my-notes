@@ -1,0 +1,8 @@
+# Ignore the node_modules directory in Quartz
+/Resources/Quartz/node_modules/
+/Private/
+
+# Other ignore rules can go here
+/node_modules/
+.DS_Store
+dist/

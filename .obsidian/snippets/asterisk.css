@@ -1,0 +1,15 @@
+/* Change the default divider to be a centered asterisk divider when you type * * * */
+hr {
+    border: none; /* Remove the default line */
+    text-align: center;
+    height: auto; /* Make sure the height adjusts to the content */
+    line-height: 1; /* Adjust line height */
+    margin: 2em 0; /* Adjust spacing as needed */
+}
+
+hr:before {
+    content: "***"; /* This is where you set the asterisks */
+    font-size: 1.5em;
+    letter-spacing: 0.5em; /* Adjust spacing between asterisks */
+    color: #888; /* Adjust color to fit your theme */
+}

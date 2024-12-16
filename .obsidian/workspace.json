@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "42648591ec94e584",
+    "type": "split",
+    "children": [
+      {
+        "id": "394ef637373c4255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98d7afba142f330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Note"
+            }
+          },
+          {
+            "id": "d27f0175c5a8f0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Control Unit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Unit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdc71a2b37880466",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2fddb130a71865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada16fd23c7844c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0bf44914fc69bd9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "daily note",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea083eaf88e07ed8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "45fc8e01eaca45b7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "a0d89ea53c129b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "247e364eb713dc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "698ba81c943db5cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/The Discriminant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Discriminant"
+            }
+          },
+          {
+            "id": "06fef4a60586767b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/The Discriminant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Discriminant"
+            }
+          },
+          {
+            "id": "025b55661d0b515a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "749a1fcc161d3249",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/The Discriminant.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Discriminant"
+            }
+          },
+          {
+            "id": "d098c81a356c7b68",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Daily Note.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.44444444444444403,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Daily Note"
+            }
+          },
+          {
+            "id": "709cfc7a691167be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c98d7afba142f330",
+  "lastOpenFiles": [
+    "Resources/Quartz/quartz.config.ts~",
+    "Resources/Quartz/quartz.layout.ts~",
+    "Notes/5G.md",
+    "Notes/4G.md",
+    "Notes/3G.md",
+    "Notes/2G.md",
+    "Notes/1G.md",
+    "Notes/Cellular Network.md",
+    "Notes/Address Generation Unit.md",
+    "Notes/Control Unit.md",
+    "Notes/Central Processing Units.md",
+    "Notes/Arithmetic Logic Unit.md",
+    "Notes/Infrastructure as a Service.md",
+    "Notes/Platform as a Service.md",
+    "Notes/Software as a Service.md",
+    "Notes/Bluetooth.md",
+    "Notes/Wireless Fidelity.md",
+    "Private/Daily Note.md",
+    "Notes/History of Gaming.md",
+    "Private/Todos.md",
+    "docs/404.html",
+    "docs/static/og-image.png",
+    "docs/static/icon.png",
+    "docs/static/contentIndex.json",
+    "docs/static",
+    "docs/index.xml",
+    "docs/sitemap.xml",
+    "docs/tags.html",
+    "docs/tags/🌱.html",
+    "docs/tags/statistics.html",
+    "docs/tags/set-theory.html",
+    "Resources/Canvas/React.canvas",
+    "Resources/Canvas/Untitled.canvas",
+    "Resources/Excalidraw/Diagrams/Roadmap.excalidraw.md",
+    "Resources/Excalidraw/Solutions/Cone.excalidraw.md",
+    "Resources/Excalidraw/Solutions/Maths for IT.excalidraw.md",
+    "Resources/Excalidraw/queue.excalidraw.md",
+    "Private/Work.md",
+    "Resources/Images/Pasted image 20241208220626.png",
+    "Notes/Null Set.md",
+    "Notes/Inequality.md",
+    "Resources/Images/Pasted image 20241120095948.png",
+    "Resources/Excalidraw/Vehicle.canvas",
+    "Resources/Images/Pasted image 20241118181859.png",
+    "Resources/Images/Pasted image 20241119212159.png",
+    "Resources/Images/Pasted image 20241119212139.png",
+    "Resources/Images/Pasted image 20241118183432.png",
+    "Untitled 1.canvas",
+    "Notes/Untitled.canvas",
+    "Resources/Images/Pasted image 20241116230044.png",
+    "Resources/Images/Pasted image 20241116230032.png"
+  ]
+}
