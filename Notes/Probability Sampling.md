@@ -15,4 +15,4 @@ cssclasses:
 **What is Probability Sampling**
 ↓
 - [[Sampling]] based on chance
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

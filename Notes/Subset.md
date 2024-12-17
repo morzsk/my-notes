@@ -17,4 +17,4 @@ aliases:
 - An [[Binary Operation|Binary]], [[Set Operation]]
 - [[Set]] $A$ is a [[Membership|Member]] of [[Set]] $B$
 $$A \subset B$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

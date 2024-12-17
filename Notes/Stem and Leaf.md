@@ -15,12 +15,12 @@ cssclasses:
 **What is a Stem and Leaf**
 ↓
 - A [[Chart]]that groups numbers based on their leading digit
-<!--SR:!2024-12-13,4,279-->
+<!--SR:!2025-01-02,17,299-->
 
 **What is The Stem**
 ↓
 - Every digit except the last one
-<!--SR:!2024-12-13,4,279-->
+<!--SR:!2025-01-02,17,299-->
 
 **What is The Leaf**
 ↓
@@ -36,4 +36,4 @@ cssclasses:
 ↓
 - Explain what the line does
 - $0 | 9=9$ vs $0|9=0.9$
-<!--SR:!2024-12-13,4,279-->
+<!--SR:!2025-01-02,17,299-->

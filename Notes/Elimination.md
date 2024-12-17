@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - Solving/[[Simplification|Simplifying]] [[Expression]] by combining equation
 - To produce equation with fewer variables
-<!--SR:!2024-12-16,63,310-->
+<!--SR:!2025-09-14,272,330-->

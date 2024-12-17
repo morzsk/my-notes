@@ -16,11 +16,11 @@ cssclasses:
 ↓
 - A form of [[Probability Sampling]]
 -  Picking the $k^{th}$ element
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **What is the skip**
 ↓
 - The element you skip
 - Population size divided by sample size
 $$k=\frac{N}{n}$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

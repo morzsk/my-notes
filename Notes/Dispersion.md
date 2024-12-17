@@ -15,4 +15,4 @@ cssclasses:
 **What is Dispersion**
 ↓
 - How distributed – stretched or squeezed [[data]] is
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

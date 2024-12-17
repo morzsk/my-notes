@@ -19,15 +19,15 @@ aliases:
 - Any device (Computer, Server, Thermostat, TV)
 - Connected by [[Communication Link]] and [[Packet Switch]]
 - Divided into [[Client]] and [[Server]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-28,12,274-->
 
 **How does a host send data**
 ↓
 - Segments data and adds header bytes to each segment
 - This is known as a Packet
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 **How does a Host access the Internet**
 ↓
 - Through an [[Internet Service Provider]]
-<!--SR:!2024-12-14,26,290-->
+<!--SR:!2025-03-31,105,310-->

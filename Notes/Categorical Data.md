@@ -15,10 +15,10 @@ cssclasses:
 **What is Categorical Data**
 ↓
 - Divided based on distinguishing properties
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **Example types of Categorical Data**
 ↓
 - [[Ordinal Data]]
 - [[Nominal Data]]
-<!--SR:!2024-12-11,3,250-->
+<!--SR:!2024-12-26,10,270-->

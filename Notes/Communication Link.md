@@ -21,4 +21,4 @@ cssclasses:
 **What is a Transmission Rate**
 ↓
 - bits/second
-<!--SR:!2024-12-12,4,272-->
+<!--SR:!2024-12-31,15,292-->

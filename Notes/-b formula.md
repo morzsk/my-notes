@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - A formula to roots of a [[Quadratic]]
 $$x = \frac{b\pm\sqrt{b^2-4ac}}{2a}$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **Deriving $-b$ formula**
 ↓
@@ -34,4 +34,4 @@ x &= \frac{b}{2a} \pm \frac{\sqrt{b^2-4ac}}{2a} \\
 x &= \frac{b\pm\sqrt{b^2-4ac}}{2a}
 \end{align}
 $$
-<!--SR:!2024-12-10,1,230-->
+<!--SR:!2024-12-19,3,250-->

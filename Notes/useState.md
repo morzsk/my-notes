@@ -15,7 +15,7 @@ cssclasses:
 **What is useState**
 ↓
 - A [[React Hooks]] that allows [[React Components]] to access read and write [[React State]]
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **How do react variables work**
 ↓
@@ -24,7 +24,7 @@ console.log(count); // 0
 setCount(count + 1); // Requests rerender with +1
 console.log(count) // Still 0!
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **How to queue multiple state updates**
 ↓
@@ -36,7 +36,7 @@ export default function Counter() {
 	}
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **Updating objects in state**
 ↓
@@ -50,7 +50,7 @@ export default function Counter() {
     });
   }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **Example of updating nested object**
 ↓
@@ -233,4 +233,4 @@ export default function Form() {
   );
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->

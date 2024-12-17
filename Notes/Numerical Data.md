@@ -15,10 +15,10 @@ cssclasses:
 **What is Numerical Data**
 ↓
 - Consists entirely of numbers
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **Example types of Numerical Data**
 ↓
 - [[Discrete Data]]
 - [[Continuous Data]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

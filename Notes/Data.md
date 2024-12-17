@@ -15,7 +15,7 @@ cssclasses:
 **What is data**
 ↓
 - A collection of facts, information and statistics
-<!--SR:!2024-12-13,4,276-->
+<!--SR:!2024-12-31,15,296-->
 
 **How is data obtained**
 ↓
@@ -28,5 +28,5 @@ Example types of Data
 ↓
 - [[Numerical Data]]
 - [[Categorical Data]]
-<!--SR:!2024-12-13,4,276-->
+<!--SR:!2024-12-30,14,296-->
 

@@ -17,4 +17,4 @@ cssclasses:
 - Defines format and order of messages between two or more [[Host]]
 - As well as action upon transmission or receipt
 ![[Pasted image 20240923212457.png]]
-<!--SR:!2024-12-14,2,250-->
+<!--SR:!2024-12-23,7,270-->

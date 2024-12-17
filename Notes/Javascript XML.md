@@ -17,14 +17,14 @@ aliases:
 **What is JSX**
 ↓
 - A syntax extension
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **What are the rules of JSX**
 ↓
 1. Elements must be wrapped
 2. All tags must be closed
 3. Camelcase most things
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 ## JSX syntax
 
@@ -37,7 +37,7 @@ const theme = {
 }
 <div style={person.theme}/>
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **Example of JSX Transformation**
 ↓
@@ -52,7 +52,7 @@ function App() {
   return React.createElement('h1', null, 'Hello world');
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **What is spread Syntax**
 ↓
@@ -75,7 +75,7 @@ return (
 	);  
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 ## Conditional Rendering
 
@@ -94,7 +94,7 @@ return (
 	</li>  
 );
 ```
-<!--SR:!2024-12-17,10,250-->
+<!--SR:!2025-01-21,35,270-->
 
 **Using Ternary Operator to render different**
 ↓
@@ -113,7 +113,7 @@ function Item({ name, isPacked }) {
   );
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **Conditional Rendering using `&&`**
 ↓
@@ -124,7 +124,7 @@ return (
 	</li>
 );
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 ## Rendering Lists
 
@@ -137,7 +137,7 @@ const listItems = people.map(person =>
 );
 return <ul>{listItems}</ul>;
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **Rendering List using `filter()`**
 ↓
@@ -149,7 +149,7 @@ const chemists = people.filter(person =>
 // then map()
 return <ul>{listItems}</ul>;
 ```
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 ## Purity
 
@@ -162,7 +162,7 @@ function Cup() {
   return <h2>Tea cup for guest #{guest}</h2>;
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **How to handle purity correctly**
 ↓
@@ -178,4 +178,4 @@ export default function TeaGathering() {
   return cups;
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->

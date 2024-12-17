@@ -64,9 +64,9 @@ int* isort(int arr[], int size) {
 
 **Initialisation for Insertion Sort**
 ↓
-- The sub-array $A[1:i-1]$ is just a single element $A[1]$ 
+- The sub-array $A[1:i-1]$ is just a single element $A[1]$
 - Since it’s just one element it’s sorted by default
-<!--SR:!2024-12-16,61,317-->
+<!--SR:!2025-09-06,264,337-->
 
 **Initialisation for Maintenance Sort**
 ↓
@@ -74,7 +74,7 @@ int* isort(int arr[], int size) {
 - Until it finds proper position for $A[i]$
 - Thus sub-array $A[1:i]$ consists of elements originally in $A[A:i]$
 - But in sorted order
-<!--SR:!2024-12-16,9,218-->
+<!--SR:!2025-01-13,28,238-->
 
 **Termination**
 ↓

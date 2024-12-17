@@ -15,22 +15,22 @@ cssclasses:
 **What is a Quartile**
 ↓
 - Splits [[Data]] into $4$ parts
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **What is the First Quartile**
 ↓
 - Splits off the lowest 25% of data from the highest 75%
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **What is the Second Quartile**
 ↓
 - Cuts data in half
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **What is the Third Quartile**
 ↓
 - Splits off the highest 25% of data from the lowest 75%
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **Diagram of a Quartile**
 ↓p

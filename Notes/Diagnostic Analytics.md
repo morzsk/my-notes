@@ -15,17 +15,17 @@ cssclasses:
 **What is Diagnostic Analytics**
 ↓
 - Why something happened in the past
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **What is Diagnostic Analytics Technique**
 ↓
 - Drill-down, Data Discovery, Correlation
 - Probabilities, likelihood, Distributions
-<!--SR:!2024-12-15,7,270-->
+<!--SR:!2025-01-11,26,290-->
 
 **When is Diagnostic Analytics used**
 ↓
 - Social media marketing campaigns to assess levels of customer engagement
 - Through numbers of posts, mentions, followers, fans, page views, reviews
 - What works, what doesn’t work
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->

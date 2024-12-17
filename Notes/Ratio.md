@@ -20,7 +20,7 @@ $$a \text{ to }b=a:b=a/b$$
 **Using ratio to compare two quantities that together that make up group**
 ↓
 $$\frac{a}{a+b} \text{ and } \frac{b}{a+b}$$
-<!--SR:!2024-12-11,21,250-->
+<!--SR:!2025-02-28,74,270-->
 
 **Solving Ratio Problems**
 ↓

@@ -16,12 +16,12 @@ cssclasses:
 ↓
 - A [[Polynomial]] where $a$, $b$, $c$ are constant
 $$ax^{2}+bx+c$$
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 **What is the Quadratic Term**
 ↓
 $$ax^{2}$$
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-31,15,294-->
 
 **What is the Linear Term**
 ↓
@@ -31,12 +31,12 @@ $$bx$$
 **What is the Constant Term**
 ↓
 $$c$$
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 **What are the solution to a quadratic**
 ↓
 - The roots, or zeroes
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 ## Factorising Quadratic
 - [[Factorising Quadratics]]

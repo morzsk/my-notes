@@ -16,14 +16,14 @@ cssclasses:
 ↓
 - What happened in the past
 - Uses descriptive statistics
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 **What is Descriptive Statistics**
 ↓
 - Uses mean, median and percentage
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 **When is Descriptive Analytics used**
 ↓
 - Management report on past performance
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - Solve first equation via [[Isolation]]
 - Then substitute the solution into the second equation
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

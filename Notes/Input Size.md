@@ -18,4 +18,4 @@ cssclasses:
 	- The degree of a polynomial
 	- Size of file being sorted or searched
 	- Number of characters in a string
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

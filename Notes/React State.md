@@ -15,19 +15,19 @@ cssclasses:
 **What is React State**
 ↓
 - [[React]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **Why is state necessary**
 ↓
 1. Components are rendered from scratch so local variables don’t persist
 2. Changes to local variables won’t trigger renders
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **How to fix state**
 ↓
 - Retain data between renders
 - Trigger react to re-render component
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e
 

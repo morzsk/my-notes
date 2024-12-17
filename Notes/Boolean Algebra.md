@@ -15,6 +15,6 @@ cssclasses:
 ↓
 - [[Binary]]$1$ for HIGH
 - [[Binary]]$0$ for LOW
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 https://www.youtube.com/watch?v=xEkxu6jMSFA&list=PLIY8eNdw5tW-yJHsxApeilNjX2Dkll-Ox&index=3

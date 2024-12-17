@@ -12,7 +12,7 @@ cssclasses:
 **What is speed of $O(N \log N)$**
 ↓
 - Linearithmic time
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **What is Causes $O(N \log N)$**
 ↓
@@ -20,4 +20,4 @@ cssclasses:
 - By breaking it up into smaller sub-problems
 - Solving them independently
 - Combining the solutions
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

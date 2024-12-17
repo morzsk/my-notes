@@ -15,12 +15,12 @@ cssclasses:
 **What is a Greatest Common Divisor**
 ↓
 Greatest positive integer that is a Divisor of both $a$ and $b$
-<!--SR:!2024-12-12,22,286-->
+<!--SR:!2025-03-14,88,306-->
 
 **What can we say about the prime factors of $n$’s divisors**
 ↓
 The [[Prime Factorisation]] of $n$ include the [[Prime Factorisation]] of each Divisor of $n$
-<!--SR:!2024-12-17,10,190-->
+<!--SR:!2024-12-22,5,170-->
 
 **Finding greatest common divisor**
 ↓

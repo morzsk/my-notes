@@ -17,7 +17,7 @@ aliases:
 ↓
 - A [[Hardware]]component
 - Executes the [[Instruction Set Architecture]]
-<!--SR:!2024-12-13,4,270--> 
+<!--SR:!2024-12-31,15,290--> 
 
 **Components of a CPU**
 ↓
@@ -26,4 +26,4 @@ aliases:
 - [[Address Generation Unit]]
 - [[Memory Management Unit]]
 - [[Cache]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

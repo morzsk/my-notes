@@ -14,4 +14,4 @@ cssclasses:
 ↓
 - Translates all [[High-Level Langauge|source code]] into [[Machine Language]]
 $$\text{source code} - \text{COMPILER}\to \text{machine code}  - \text{EXECUTOR}\to \text{output}$$
-<!--SR:!2024-12-15,60,310-->
+<!--SR:!2025-09-02,260,330-->

@@ -15,13 +15,13 @@ cssclasses:
 **What is Binary**
 ↓
 - [[Numeral Systems]] that uses 2 symbols ($0 \to 1$)
-<!--SR:!2024-12-13,4,277-->
+<!--SR:!2025-01-01,16,297-->
 
 **Represent $572$ as multiples of base 2**
 ↓
 $$
 \begin{align}
-<!--SR:!2024-12-13,4,277-->
+<!--SR:!2025-01-01,16,297-->
 
 572 &= 512 + 32 + 16 + 8 + 4 \\
 
@@ -38,14 +38,14 @@ $$
 - The remained will be the next bit
 - Repeat with the whole number (ignore remainder)
 ![[Decimal_to_Binary_Conversion.gif|75]]
-<!--SR:!2024-12-15,26,290-->
+<!--SR:!2025-03-30,104,310-->
 
 **Binary to Decimal**
 ↓
 - Write table of increasing powers of 2
 - Add for each number where there is a $1$
 ![[Pasted image 20240918004159.png]]
-<!--SR:!2024-12-13,4,277-->
+<!--SR:!2024-12-31,15,297-->
 
 ## Binary Arithmetic
 
@@ -55,7 +55,7 @@ $$
 1+0 =1
 O+1=1
 1+1=10
-<!--SR:!2024-12-12,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 Subtracting binary
 ↓
@@ -63,7 +63,7 @@ Subtracting binary
 O-1 = 1 r 1
 1-0 = 1
 1-1 = O
-<!--SR:!2024-12-13,4,277-->
+<!--SR:!2024-12-31,15,297-->
 
 
 

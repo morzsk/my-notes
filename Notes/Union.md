@@ -18,9 +18,9 @@ cssclasses:
 - A [[Binary Operation|Binary]], [[Set Operation]]
 - [[Set]]of all things that have [[Membership]] in A OR B
 $$A \cup B$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 **Diagram of Union**
 ↓
 ![[Pasted image 20241007212519.png|400]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - A type of [[Database Key]]
 - Links two tables by referencing [[Primary Key]] of another table
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

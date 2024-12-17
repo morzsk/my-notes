@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - A number whose square is a [[Real Number]] that is not positive
 $$i^{2}=-1$$
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 **How to format $z=\sqrt{ -x }$ as imaginary number**
 ↓
@@ -26,4 +26,4 @@ z&=\sqrt{ -x } \\
 &= i\sqrt{ x }
 \end{align}
 $$
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->

@@ -27,12 +27,12 @@ $$f(x)=y$$
 **Schematic Diagram of a function**
 ↓
 ![[Pasted image 20240915142554.png|300]]
-<!--SR:!2024-12-16,67,320-->
+<!--SR:!2025-10-08,296,340-->
 
 **What is a Dummy Variable**
 ↓
 - The $x$ in $f(x)$
-<!--SR:!2024-12-10,62,314-->
+<!--SR:!2025-09-12,270,334-->
 
 
 
@@ -47,7 +47,7 @@ y&=ax+b \\
 x&=\frac{y-b}{a}
 \end{align}
 $$
-<!--SR:!2024-12-11,3,150-->
+<!--SR:!2024-12-23,7,170-->
 
 **The union of two interval**
 ↓
@@ -57,7 +57,7 @@ $$
 **The intersection of two intervals**
 ↓
 - Consists of answers that are in both of the intervals
-<!--SR:!2024-12-14,50,294-->
+<!--SR:!2025-07-08,204,314-->
 
 **How to Range of a Function with a Restricted Domain**
 ↓
@@ -71,7 +71,7 @@ p(x)=2\sqrt{ x }+3 &\text{, where, } 4 \leq x \leq 9 \\
 7 \leq &p(x) \leq 9
 \end{align}
 $$
-<!--SR:!2024-12-15,20,250-->
+<!--SR:!2025-02-24,70,270-->
 
 **How to find the Domain of a Function with a Restricted Domain**
 ↓
@@ -82,4 +82,4 @@ x&=\left( \frac{y-3}{2} \right)^2 \\
 x&=\text{Any value from range}
 \end{align}
 $$
-<!--SR:!2024-12-16,4,170-->
+<!--SR:!2024-12-25,9,190-->

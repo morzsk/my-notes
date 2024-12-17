@@ -15,4 +15,4 @@ cssclasses:
 **What is a Personal Area Network**
 ↓
 - A [[Computer Network]] contained within 10 meters
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

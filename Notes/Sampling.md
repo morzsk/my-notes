@@ -31,9 +31,9 @@ cssclasses:
 **What is Quota Sampling**
 ↓
 - Similar to strata however not proportional
-<!--SR:!2024-12-11,3,259-->
+<!--SR:!2024-12-26,10,279-->
 
 **What is Snowball Sampling**
 ↓
 - Members of sample refer other members
-<!--SR:!2024-12-13,4,279-->
+<!--SR:!2025-01-02,17,299-->

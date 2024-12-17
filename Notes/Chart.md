@@ -15,7 +15,7 @@ cssclasses:
 **What is a Chart**
 ↓
 - Ways to graphically represent [[Data]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **What is a Present Column**
 

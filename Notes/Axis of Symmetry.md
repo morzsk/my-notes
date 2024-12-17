@@ -15,4 +15,4 @@ cssclasses:
 **Axis of Symmetry**
 ↓
 - The line through the focus perpendicular to the directrix
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

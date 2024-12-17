@@ -17,4 +17,4 @@ cssclasses:
 **What is a Locus**
 ↓
 - A collection of points that satisfy a specific criteria
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

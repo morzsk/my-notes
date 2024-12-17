@@ -12,12 +12,12 @@ cssclasses:
 **What is speed of $O(N)$**
 ↓
 - Linear running time
-<!--SR:!2024-12-13,4,277-->
+<!--SR:!2025-01-01,16,297-->
 
 **What causes $O(N)$**
 ↓
 - When small amount of processing is done on each input
-<!--SR:!2024-12-12,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 **What is $O(N)$ optimal for**
 ↓

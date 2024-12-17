@@ -19,7 +19,7 @@ cssclasses:
 - A [[Binary Operation|Binary]],  [[Boolean Operation]]
 - Similar to addition
 $$(A+B)$$
-<!--SR:!2024-12-13,25,290-->
+<!--SR:!2025-03-25,99,310-->
 
 **Anatomy of Disjunction**
 ↓
@@ -32,7 +32,7 @@ $$
 \end{align}
 \quad \bigg\} = \text{Disjunction}
 $$
-<!--SR:!2024-12-13,4,273-->
+<!--SR:!2025-01-01,16,293-->
 
 **Properties of Conjunction**
 ↓
@@ -41,12 +41,12 @@ $$
 - [[Distributive Property|Distributive]]
 - [[Idempotent Property|Idempotent]]
 - [[Monotonic]]
-<!--SR:!2024-12-13,4,273-->
+<!--SR:!2025-01-01,16,293-->
 
 
 ## OR’s Truth Table
 ↓
-<!--SR:!2024-12-12,3,254-->
+<!--SR:!2024-12-26,10,274-->
 
 | $A$ | $B$ | $Y=A+B$ |
 | --- | --- | ------- |

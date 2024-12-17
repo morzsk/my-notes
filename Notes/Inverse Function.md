@@ -38,7 +38,7 @@ $$
 **How to know if a function is invertible**
 ↓
 - If a function gives the same output for two different inputs
-<!--SR:!2024-12-13,4,289-->
+<!--SR:!2025-01-02,17,309-->
 
 **How to know if a function is not invertible**
 ↓

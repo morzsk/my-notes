@@ -14,5 +14,5 @@ cssclasses:
 **What is a Fallacy**
 ↓
 - Using an invalid or faulty reasoning in the construction of an argument
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 

@@ -16,14 +16,14 @@ cssclasses:
 ↓
 - Process of comparing old [[Virtual Dom]]and new [[Virtual Dom]]
 - Identifies what changed
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **What is Diffing changes categorised as**
 ↓
 - Node additions
 - Node deletions
 - Node updates
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 This Town Needs Guns
 Free Throw

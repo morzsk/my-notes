@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - Processes code before compilation
 - Used to perform textual transformation
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-31,15,294-->
 
 ### File Inclusion
 
@@ -27,7 +27,7 @@ cssclasses:
 #include <stdio.h>
 #include "stdio.h"
 ```
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-31,15,294-->
 
 ### Macro Definition
 
@@ -39,7 +39,7 @@ cssclasses:
 #define PI 3.14
 #define SQUARE(x) ((x) * (x))
 ```
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-31,15,294-->
 
 ### Conditional Compilation
 
@@ -52,7 +52,7 @@ cssclasses:
 	printf("Debugging disabled\n");
 #endif
 ```
-<!--SR:!2024-12-14,25,290-->
+<!--SR:!2025-03-27,101,310-->
 
 ### Macro Expansion
 
@@ -62,7 +62,7 @@ cssclasses:
 #define MAX 100
 int arr[MAX]; // This will be expanded to int arr[100];
 ```
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 ### File Guarding
 
@@ -74,4 +74,4 @@ int arr[MAX]; // This will be expanded to int arr[100];
 // header file content
 #endif
 ```
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->

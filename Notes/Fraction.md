@@ -44,17 +44,17 @@ $$4-2 \frac{3}{4}=(4-2-1)+\left( 1- \frac{3}{4} \right)=1 \frac{1}{4}$$
 ↓
 - Reduce each fraction to its simplest form by cancelling any common divisors between the numerators and denominators
 $$\frac{15}{35} \cdot \frac{14}{20} = \frac{3}{7} \cdot \frac{7}{10} = \frac{3}{10}$$
-<!--SR:!2024-12-17,10,194-->
+<!--SR:!2025-01-15,29,214-->
 
 **[[Multiplication|Multiplying]] and simplifying by Cancelling Products $\left( \frac{2}{3} \cdot \frac{3}{4 }\right)$**
 ↓
 $$\frac{2}{3} \times \frac{3}{4} = \frac{\cancel{2}^1}{\cancel{3}^1} \times \frac{\cancel{3}^{1}}{\cancel{4}^{2}}=\frac{1}{1} \times \frac{1}{2} = \frac{1}{2}$$
-<!--SR:!2024-12-17,10,190-->
+<!--SR:!2025-01-14,28,210-->
 
 **[[Multiplication|Multiplying]] mixed numbers**
 ↓
 $$3 \times 2 \frac{3}{4} = \frac{3}{1} \times \frac{2 \times 4+3}{4} = \frac{33}{4} = 8 \frac{1}{4}$$
-<!--SR:!2024-12-14,7,170-->
+<!--SR:!2025-01-03,18,190-->
 
 #### Identities
 
@@ -116,7 +116,7 @@ $$\left( \frac{a}{b} \right)^{-n}=\frac{b^n}{a^n}$$
 - Perform the [[Prime Factorisation]] of both the numerator and the denominator
 - Then, cancel out any common prime factors.
 $$\frac{18}{24} = \frac{2 \cdot 3^2}{2^3 \cdot 3} = \frac{2}{3}$$
-<!--SR:!2024-12-13,49,290-->
+<!--SR:!2025-07-01,197,310-->
 
 ### Comparing Fractions
 

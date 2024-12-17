@@ -14,7 +14,7 @@ cssclasses:
 
 **What is Vieta’s Formula**
 ↓
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 
 **Sum of roots in Vieta’s Formula**
@@ -24,7 +24,7 @@ $$
 r_{1}+r_{2}=-\frac{b}{a} \\
 \end{align}
 $$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **Product of roots in Vieta’s Formula**
 ↓
@@ -33,7 +33,7 @@ $$
 r_{1}r_{2}=\frac{c}{a}
 \end{align}
 $$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **Derive the Vieta’s Formula**
 ↓
@@ -46,4 +46,4 @@ ax^2-a(r_{1}+r_{2})x+ar_{1}r_{2} &= 0 \\
 ar_{1}r_{2} = c &\implies r_{1}r_{2} = \frac{c}{a}
 \end{align}
 $$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

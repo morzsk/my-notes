@@ -16,10 +16,10 @@ cssclasses:
 - A [[Mean]]
 - Multiply data point $x$ by some weight $f$
 $$\mu = \frac{\sum fx}{\sum f}$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **Why is weighted mean important**
 ↓
 - When comparing means of diff countries
 - We have to account for populations
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

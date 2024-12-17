@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - Procedure in which the size of a data structure is changed during the runtime.
 ![[Pasted image 20241006133008.png]]
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-27,11,275-->
 
 ## What is Malloc
 
@@ -28,7 +28,7 @@ cssclasses:
 int* ptr;
 ptr = (cast-type*) malloc(byte-size)
 ```
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 ## What is Calloc
 
@@ -39,7 +39,7 @@ ptr = (cast-type*) malloc(byte-size)
 ```c
 ptr = (cast-type*)calloc(n, element-size);
 ```
-<!--SR:!2024-12-12,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 ## What is Realloc
 
@@ -51,7 +51,7 @@ ptr = (cast-type*)calloc(n, element-size);
 int* ptr;
 ptr = realloc(ptr, newSize);
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-30,14,295-->
 
 ## Memcpy
 
@@ -62,7 +62,7 @@ ptr = realloc(ptr, newSize);
 ```c
 memcpy(str1, str2, sizeof(str2));
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2025-01-01,16,295-->
 
 ## What is Free
 
@@ -72,7 +72,7 @@ memcpy(str1, str2, sizeof(str2));
 ```c
 free(ptr);
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2025-01-01,16,295-->
 
 **How to check if memory is allocated**
 ↓
@@ -82,4 +82,4 @@ if (ptr == NULL) {
 	exit(0);
 }
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-30,14,295-->

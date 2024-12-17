@@ -28,6 +28,8 @@ $$
 
 **Decimal to Hexadecimal**
 ↓
+<!--SR:!2024-12-21,4,273-->
+<!--SR:!2024-12-21,4,272-->
 
 
 - Divide $n_{10}$ number by $16$
@@ -51,7 +53,7 @@ $$
 - Multiply each digit by 16 raised to the power of its position
 - Sum the results of each multiplication
 $$∑(\text{Hex Digit}×16^{Position})$$
-<!--SR:!2024-12-10,3,174-->
+<!--SR:!2024-12-25,9,194-->
 
 **Decimal to Hexadecimal**
 ↓

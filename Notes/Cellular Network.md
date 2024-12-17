@@ -17,12 +17,12 @@ cssclasses:
 - A [[Telecommunication Network]]
 - Where link to and from [[Host|End Systems]] is wireless
 - Distributed over Cells
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 **What is a Cell**
 ↓
 - Land area with at-least one transceiver
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2025-01-01,16,295-->
 
 ## Types of Cellular Networks
 
@@ -33,5 +33,5 @@ cssclasses:
 3. [[3G]]
 4. [[4G]]
 5. [[5G]]
-<!--SR:!2024-12-12,4,272-->
+<!--SR:!2024-12-30,14,292-->
 

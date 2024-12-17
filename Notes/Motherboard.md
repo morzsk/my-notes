@@ -14,4 +14,4 @@ cssclasses:
 **What is a Motherboard**
 ↓
 - Allows different [[Hardware]]Components to communicate to each other
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

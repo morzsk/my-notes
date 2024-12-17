@@ -14,4 +14,4 @@ cssclasses:
 **What is Hardware**
 ↓
 - The physical parts of a [[Computer]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

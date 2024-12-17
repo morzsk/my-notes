@@ -15,11 +15,11 @@ cssclasses:
 **What is a Hook**
 ↓
 - [[React]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **The Rule of React Hooks**
 ↓
 1. Don’t call hook inside loops, condition, or nested functions
 2. Only call hooks from React Function
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 

@@ -22,7 +22,7 @@ cssclasses:
 **What is a Token**
 ↓
 - The smallest individual elements that is meaningful to the compiler
-<!--SR:!2024-12-13,4,285-->
+<!--SR:!2025-01-02,17,305-->
 
 **Types of Tokens in C**
 ↓
@@ -32,21 +32,21 @@ cssclasses:
 - C String
 - C Special Symbol
 - C Operator
-<!--SR:!2024-12-16,7,264-->
+<!--SR:!2025-01-12,27,284-->
 
 ### What is a C Keyword
 
 **What is a Keyword**
 ↓
 - Predefined or reserved words that have special meanings to the compiler
-<!--SR:!2024-12-13,4,285-->
+<!--SR:!2025-01-02,17,305-->
 
 ### What is a C Identifier
 
 **What is an Identifier**
 ↓
 - General term for naming of variables, functions and arrays
-<!--SR:!2024-12-13,4,285-->
+<!--SR:!2025-01-02,17,305-->
 
 ### What is a C Constant
 
@@ -61,7 +61,7 @@ cssclasses:
 **What is a C String**
 ↓
 - An array of characters that end with `\0`
-<!--SR:!2024-12-13,4,285-->
+<!--SR:!2025-01-02,17,305-->
 
 **What is `scanf`**
 ↓
@@ -69,7 +69,7 @@ cssclasses:
 - Stops at whitespace
 - Used for inputting values
 - e.g. John Doe would stop at John
-<!--SR:!2024-12-13,4,285-->
+<!--SR:!2025-01-02,17,305-->
 
 **What is `fgets`**
 ↓
@@ -77,7 +77,7 @@ cssclasses:
 - Stops at newline or predefined number of char
 - Used for Taking full string, even with spaces
 - e.g. You get John Doe
-<!--SR:!2024-12-13,4,285-->
+<!--SR:!2025-01-02,17,305-->
 
 **What is `puts`**
 ↓
@@ -101,7 +101,7 @@ https://www.geeksforgeeks.org/string-functions-in-c/
 ```c
 sizeof(expression)
 ```
-<!--SR:!2024-12-13,4,285-->
+<!--SR:!2025-01-02,17,305-->
 
 ## What is a C Array
 

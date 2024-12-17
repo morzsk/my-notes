@@ -13,4 +13,4 @@ cssclasses:
 **What is Javascript**
 ↓
 A [[High-Level Langauge|High-Level]], [[Interpreter|Interpreted]], [[Dynamic]], [[Programming Language]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

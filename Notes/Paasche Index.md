@@ -15,4 +15,4 @@ cssclasses:
 - Sum of the products of the current period prices and current period quantities
 - Divided by the product of the base period prices and current period quantities
 $$\frac{\sum P_{t}Q_{t}}{\sum P_{0}Q_{t}} \times 100$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

@@ -15,4 +15,4 @@ cssclasses:
 **What is an Artificial Intelligence**
 ↓
 - Intelligence exhibited by a Machine
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2024-12-31,15,290-->

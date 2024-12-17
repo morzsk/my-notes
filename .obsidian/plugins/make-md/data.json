@@ -47,7 +47,9 @@
   "expandedSpaces": [
     "/",
     "//maths",
-    "//Notes"
+    "//Tags",
+    "//Resources",
+    "//Resources/Resources/Excalidraw"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

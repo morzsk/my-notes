@@ -15,4 +15,4 @@ cssclasses:
 **What is The Internet of Things**
 ↓
 - A world where everything is connected to the [[Internet]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

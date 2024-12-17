@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - What is likely to happen in the future
 - Uses descriptive and diagnostic analytics to predict future outcomes
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **What are Predictive Techniques**
 ↓
@@ -28,4 +28,4 @@ cssclasses:
 - Predict the impact of a proposed change
 - Predict customer purchasing trend
 - Predict customer’s ability to repay loan
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->

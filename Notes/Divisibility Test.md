@@ -37,7 +37,7 @@ Sum of digits of $n$ is a multiple of $3$
 **Divisibility Test for $4$**
 ↓
 Number formed by last $2$ digits of $n$ is a multiple of $4$
-<!--SR:!2024-12-13,5,230-->
+<!--SR:!2025-01-02,17,250-->
 
 **Divisibility Test for $5$**
 ↓

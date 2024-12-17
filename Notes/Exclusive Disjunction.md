@@ -31,7 +31,7 @@ $$
 \end{align}
 \quad \bigg\} = \text{Exclusive Disjunction}
 $$
-<!--SR:!2024-12-13,4,276-->
+<!--SR:!2025-01-01,16,296-->
 
 **Properties of Conjunction**
 ↓
@@ -40,12 +40,12 @@ $$
 - [[Distributive Property|Distributive]]
 - [[Idempotent Property|Idempotent]]
 - [[Monotonic]]
-<!--SR:!2024-12-13,4,276-->
+<!--SR:!2025-01-01,16,296-->
 
 
 ## OR’s Truth Table
 ↓
-<!--SR:!2024-12-13,4,276-->
+<!--SR:!2024-12-30,14,296-->
 
 | $A$ | $B$ | $Y=A+B$ |
 | --- | --- | ------- |

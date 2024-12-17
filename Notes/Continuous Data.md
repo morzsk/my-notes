@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - A type of [[Numerical Data]]
 - Data that may have any value in an interval
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 **Example of Continuous Data**
 ↓

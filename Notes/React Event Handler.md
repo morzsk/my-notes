@@ -46,7 +46,7 @@ function Button({ onClick, children }) {
   );
 }
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-31,15,295-->
 
 **How to add event handlers w/ props**
 ↓
@@ -72,7 +72,7 @@ export default function Toolbar() {
   );
 }
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2025-01-01,16,295-->
 
 **How to rename event handlers**
 ↓
@@ -98,7 +98,7 @@ export default function App() {
   );
 }
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-31,15,295-->
 
 **Event propagation in react**
 ↓
@@ -118,13 +118,13 @@ export default function Toolbar() {
   );
 }
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-30,14,295-->
 
 **Which events propagates**
 ↓
 - All events
 - Except `onScroll`
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2025-01-01,16,295-->
 
 **How to stop event propagation**
 ↓
@@ -155,7 +155,7 @@ export default function Toolbar() {
   );
 }
 ```
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **Passing handlers as alternative to propagation**
 ↓
@@ -182,4 +182,4 @@ export default function Signup() {
   );
 }
 ```
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2025-01-01,16,295-->

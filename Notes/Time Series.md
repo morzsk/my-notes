@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - A [[Chart]]
 - Made up of [[Trend|Trends]], [[Seasonality|Seasonalities]], [[Cycle|Cycles]], [[Irregularity|Irregularities]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

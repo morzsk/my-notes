@@ -15,4 +15,4 @@ cssclasses:
 **What is an Average**
 ↓
 Central value of a set of [[Data]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

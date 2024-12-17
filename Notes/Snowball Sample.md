@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - Form of [[Non-Probability Sampling]]
 - Members of sample refer other members
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

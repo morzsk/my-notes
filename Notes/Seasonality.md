@@ -14,4 +14,4 @@ cssclasses:
 **What is a Seasonality**
 ↓
 - Repetition in the data over consistent intervals
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

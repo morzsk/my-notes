@@ -17,7 +17,7 @@ cssclasses:
 - A [[Programming-Paradigm]] based on the concept of objects
 - Contains data in the form of fields / attributes / properties
 - Contains code in the form of procedures / methods
-<!--SR:!2024-12-13,4,278-->
+<!--SR:!2024-12-30,14,298-->
 
 **Diagram of UML Notation for Class**
 ↓

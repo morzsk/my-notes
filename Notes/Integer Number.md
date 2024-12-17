@@ -16,7 +16,7 @@ cssclasses:
 - Whole numbers
 - Includes [[Natural Number]]
 $$\mathbb{Z}=\{ \dots, -4, -3, -2 -1, 0, 1, 2, 3, 4 , \dots\}$$
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 **What does $\mathbb{Z}$ stand for**
 ↓

@@ -17,6 +17,7 @@ cssclasses:
 - Directs operations of Processor
 - Interprets instructions from [[Program]]
 - And controls flow of data within [[Central Processing Units|CPU]] to/form other [[Hardware]] component
+<!--SR:!2024-12-20,4,270-->
 
 **Key function of CU**
 ↓
@@ -24,8 +25,10 @@ cssclasses:
 - Decodes [[Instruction Set Architecture]] to determine operations needed
 - Directs operation of [[Arithmetic Logic Unit|ALU]]d, [[Register]], and [[Memory]]
 - Coordinates with other components to execute instructions in the correct sequence
+<!--SR:!2024-12-20,4,270-->
 
 **Analogy of CU**
 ↓
 - A conductor
+<!--SR:!2024-12-20,4,270-->
 

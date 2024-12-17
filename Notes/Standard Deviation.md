@@ -19,4 +19,4 @@ cssclasses:
 - Low means close to the mean
 - High means far from the mean
 $$\sigma = \sqrt{ \frac{\sum (x-\mu)^2}{n} }$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

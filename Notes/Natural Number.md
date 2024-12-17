@@ -15,4 +15,4 @@ cssclasses:
 ↓
 - Positive whole numbers
 $$\mathbb{N}=\{ 1,2,3,4, \dots\}$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

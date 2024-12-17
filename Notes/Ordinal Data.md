@@ -16,11 +16,11 @@ cssclasses:
 ↓
 - A type of [[Categorical Data]]
 - Data that can be ranked
-<!--SR:!2024-12-16,7,270-->
+<!--SR:!2025-01-11,26,290-->
 
 **Example of Ordinal Data**
 ↓
 - Grades
 - Jobs
 - Likert Scale
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

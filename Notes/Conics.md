@@ -17,7 +17,7 @@ cssclasses:
 - A curve obtained from a [[Cone|Cone’s]] surface
 - Set of points whose coordinates satisfy a [[Quadratic]] in $2$ variables which can be written in the form
 $$Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0$$
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 **Diagram of Circle to Hyperbola on a Cone**
 ↓
@@ -28,4 +28,4 @@ $$Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0$$
 **Conics visualised using a torch**
 ↓
 ![[Pasted image 20241108110309.png|450]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->

@@ -16,10 +16,10 @@ cssclasses:
 ↓
 - A type of [[Numerical Data]]
 - Data may only take on certain values
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **Example of Discrete Data**
 ↓
 - Counting
 - Rarely takes non-integer value
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

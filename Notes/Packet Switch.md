@@ -17,14 +17,14 @@ cssclasses:
 - A [[Network Device]]
 - Takes packet arriving on incoming [[Communication Link]]
 - Forwards packet on one of its outgoing [[Communication Link]]
-<!--SR:!2024-12-13,15,290-->
+<!--SR:!2025-02-13,59,310-->
 
 **Types of Packet Switch**
 ↓
 - Most common are [[Router]] and [[Link-Layer Switch]]
-<!--SR:!2024-12-12,4,277-->
+<!--SR:!2025-01-01,16,297-->
 
 **Analogy for Packet-Switched networks**
 ↓
 - Trucks travelling to destination on a highway
-<!--SR:!2024-12-12,4,274-->
+<!--SR:!2025-01-01,16,294-->

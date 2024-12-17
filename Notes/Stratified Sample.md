@@ -23,4 +23,4 @@ $$\left( \frac{\text{proportion}}{\text{population}} \times \text{sample size} \
 **What does strata mean**
 ↓
 - Groups based on some criteria
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->

@@ -15,7 +15,7 @@ cssclasses:
 **What is Isolation**
 ↓
 - Manipulate equation until variable and constant are on opposite sides
-<!--SR:!2024-12-10,62,312-->
+<!--SR:!2025-09-10,268,332-->
 
 **What should you do when you square while solving an equation**
 ↓

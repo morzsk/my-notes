@@ -15,19 +15,19 @@ cssclasses:
 ↓
 - Signal that is comprised of discrete signal values
 - Typically represented in a Two Voltage Band using  [[Binary]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **What is a Two Voltage Band**
 ↓
 - Two discrete states – Ground and supply voltage
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **What is Ground**
 ↓
 - Zero volts
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **What is Supply Voltage**
 ↓
 - A value near the Power Supply
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->

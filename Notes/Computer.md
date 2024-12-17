@@ -15,4 +15,4 @@ cssclasses:
 ↓
 - An electronic device that
 - Can run [[Program]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

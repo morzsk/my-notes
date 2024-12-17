@@ -15,9 +15,9 @@ cssclasses:
 **What is the Internet**
 ↓
 - Is a [[Computer Network]]that connects billions of [[Host]]/end systems
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **Diagram of the Internet**
 ↓
 ![[Pasted image 20240923204817.png]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

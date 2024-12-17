@@ -15,4 +15,4 @@ cssclasses:
 - Dominates the outcome of an operation
 $$x+1=1$$
 $$x \cdot 0=0$$
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2024-12-31,15,290-->

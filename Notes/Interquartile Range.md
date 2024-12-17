@@ -17,4 +17,4 @@ cssclasses:
 - A measure of [[Dispersion]]that uses [[Quartile]]
 - The difference between the $75$th and 25th
 $$IQR= Q_{3}-Q_{2}$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - Java Development Kit
 - Set of programs that allows us to make our own programs
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

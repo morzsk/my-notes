@@ -12,9 +12,9 @@ cssclasses:
 **What causes $O(2^{N})$**
 ↓
 - Brute-force solutions
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **What is $O(2^{N})$ optimal for**
 ↓
 - Cryptography
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2025-01-01,16,290-->

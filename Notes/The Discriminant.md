@@ -16,19 +16,19 @@ cssclasses:
 ↓
 - A way to determine the nature of the roots of a [[Quadratic]]
 $$\Delta = b^2-4ac$$
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 **Roots when $\Delta = 0$**
 ↓
 - Has double roots
 - If coefficients are [[Rational Number]] then roots are [[Rational Number]] if $b^2-4ac$ is the square of a rational number
 $$x=-\frac{b}{2a}$$
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 **Roots when $\Delta \geq 0$**
 ↓
 - Roots are [[Real Number]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 **Roots when $\Delta < 0$**
 ↓

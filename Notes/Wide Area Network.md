@@ -15,4 +15,4 @@ cssclasses:
 **What is a Wide Area Network**
 ↓
 - A [[Computer Network]] contained within large distances
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

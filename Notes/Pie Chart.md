@@ -15,22 +15,22 @@ cssclasses:
 **What is a Pie Chart**
 ↓
 - A [[Chart]]that displays frequencies as sectors of a circle
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **What data should be used for Pie Charts**
 ↓
 - Mutually exclusive
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **What is the angle of a sector of Pie Chart**
 ↓
 $$\theta=\frac{\text{frequency}}{\text{total}}\times 360$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **Diagram of a Pie Chart**
 ↓
 ![[Pasted image 20241004103106.png|350]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 | Cuisine       | Frequency | Angle |
 | ------------- | --------- | ----- |

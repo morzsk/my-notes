@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - A type of [[Average]]
 - The most frequent number
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

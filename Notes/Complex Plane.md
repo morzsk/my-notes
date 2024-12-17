@@ -22,7 +22,7 @@ cssclasses:
 **Diagram of Complex Plane**
 ↓
 ![[Pasted image 20240921140908.png|300]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 ### Complex Plane Relationships
 
@@ -30,7 +30,7 @@ cssclasses:
 ↓
 - They are reflections over the real axis
 ![[Pasted image 20240921141519.png|350]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-30,14,294-->
 
 **Relationship between $z$ and $-z$ on Complex Plane**
 ↓
@@ -42,13 +42,13 @@ cssclasses:
 ↓
 - They are a reflection over the imaginary axis
 ![[Pasted image 20240921141519.png|350]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-31,15,294-->
 
 **When you connect $O$ to $\omega$, $\omega$ to $\omega+z$, $z$ to $O$**
 ↓
 - You get a quadrilateral (Parallelogram)
 ![[Pasted image 20240921143050.png|550]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2025-01-01,16,294-->
 
 **How do we get the distance between $O$ and $z$**
 ↓
@@ -60,7 +60,7 @@ z&=a+bi \\
 \end{align}
 $$
 ![[Pasted image 20240921150053.png|250]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-31,15,294-->
 
 **Distance between two Complex Numbers**
 ↓
@@ -74,4 +74,4 @@ w-z&=(a+bi)-(c+di) \\
 \end{align}
 $$
 ![[Pasted image 20240921160313.png|350]]
-<!--SR:!2024-12-13,4,274-->
+<!--SR:!2024-12-31,15,294-->

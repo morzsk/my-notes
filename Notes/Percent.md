@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - A [[Fraction]] with a hidden $100$ as denominator
 $$x\% =\frac{x}{100}$$
-<!--SR:!2024-12-13,4,283-->
+<!--SR:!2025-01-02,17,303-->
 
 ### Percentage Increase
 <!--SR:!2025-01-07,61,310-->
@@ -24,7 +24,7 @@ $$x\% =\frac{x}{100}$$
 **How to calculate $n\%$ increase**
 ↓
 $$x \cdot (1+n\%)$$
-<!--SR:!2024-12-12,4,281-->
+<!--SR:!2025-01-02,17,301-->
 
 ### Percentage Decrease
 <!--SR:!2024-12-19,64,310-->

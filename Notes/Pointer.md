@@ -15,7 +15,7 @@ cssclasses:
 ↓
 - Pointers point to a value in memory
 ![[Pasted image 20240929181708.png]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **Call by reference**
 ↓
@@ -36,7 +36,7 @@ swap(a, b)
 int a[10];
 ```
 ![[Pasted image 20240929192357.png]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **Relationship between array and pointers**
 ↓
@@ -48,12 +48,12 @@ pa = &a[0];
 ![[Pasted image 20240929192438.png]]
 - So `pa+n` would give you the nth item in the list
 ![[Pasted image 20240929192729.png]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **When can comparison operators be used with Pointers**
 ↓
 - When two pointers `p` and `q` point to members in same array
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **Creating a string using Pointer**
 ↓
@@ -62,7 +62,7 @@ char amessage[] = "now is the time"; /* an array */
 char *pmessage = "now is the time";  /* a pointer */
 ```
 ![[Pasted image 20240929212602.png]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 ```c
 *p++ = val;
@@ -77,7 +77,7 @@ val = *--p;
 ↓
 - An uninitialised pointer
 - Points to some arbitrary memory location
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **How to get Wild Pointer**
 ↓
@@ -87,7 +87,7 @@ int main() {
 	*p = 12; /* Some unknown memory is corrupted */
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **How to avoid Wild Pointer**
 ↓
@@ -99,7 +99,7 @@ int main() {
 	*p = 12;  
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **How to avoid Wild Pointer without assigning a value**
 ↓
@@ -108,7 +108,7 @@ int main() {
 	int* p = (int*)malloc(sizeof(int));
 }
 ```
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 ```c
 /* month_name: return name of n-th month */

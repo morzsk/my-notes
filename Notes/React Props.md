@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - [[React]]
 - Allows [[React Components|Component]] to access read only [[React State|State]] from parent
-<!--SR:!2024-12-13,15,290--> 
+<!--SR:!2025-02-14,60,310--> 

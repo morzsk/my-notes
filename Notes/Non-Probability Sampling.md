@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - A type of [[Sampling]]
 - Not everyone has equal chance
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

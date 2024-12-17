@@ -18,7 +18,7 @@ cssclasses:
 - A [[Binary Operation|Binary]],  [[Boolean Operation]]
 - Similar to multiplication
 $$(A \cdot B)$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 **Anatomy of Conjunction**
 ↓
@@ -30,7 +30,7 @@ $$
 \end{align}
 \quad \bigg\} = \text{Conjunction}
 $$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **Properties of Conjunction**
 ↓
@@ -39,11 +39,11 @@ $$
 - [[Distributive Property|Distributive]]
 - [[Idempotent Property|Idempotent]]
 - [[Monotonic]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 ## AND’s Truth Table
 ↓
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 | $A$ | $B$ | $Y=A \cdot B$ |
 | --- | --- | ------------- |

@@ -15,4 +15,4 @@ cssclasses:
 - A normalised [[Average]], normally [[Weighted Mean]]
 - For a good or service in a region
 - During a [[Time Series]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

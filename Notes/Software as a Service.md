@@ -18,14 +18,17 @@ cssclasses:
 - Delivers [[Software]] applications over the internet
 - On a subscription basis
 - Removing need for local subscription
+<!--SR:!2024-12-20,4,270-->
 
 **Features of SaaS**
 ↓
 - User access application over web or app
 - No need to handle infrastructure, software or maintenance
 - Scalable w/ pay as you go pricing models
+<!--SR:!2024-12-20,4,270-->
 
 **Uses of SaaS**
 ↓
 - Productivity tools (e.g. Microsoft 365, Google Workspace)
 - Communication tools (e.g. Zoom, Slack)
+<!--SR:!2024-12-20,4,270-->

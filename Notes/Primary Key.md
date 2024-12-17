@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - A type of [[Database Key]]
 - Uniquely identifies each [[Record]] in a table
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

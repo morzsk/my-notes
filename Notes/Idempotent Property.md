@@ -15,4 +15,4 @@ cssclasses:
 ↓
 - When an operation applied multiple times gives the same result
 $$x \circ x=x$$
-<!--SR:!2024-12-14,2,250-->
+<!--SR:!2024-12-23,7,270-->

@@ -18,6 +18,7 @@ cssclasses:
 - Provides platform and environment
 - For building, testing and deploying applications
 - Without touching server or storage
+<!--SR:!2024-12-20,4,270-->
 
 **Features of SaaS**
 ↓
@@ -25,10 +26,12 @@ cssclasses:
 - Devs focus on coding; Provider manages hardware, OS and middleware
 - Makes collaborating easy
 - Often includes Integrated Development Environments
+<!--SR:!2024-12-20,4,270-->
 
 **Uses of SaaS**
 ↓
 - Application development and deployment
 - API development and management
 - Rapid prototyping of software application
+<!--SR:!2024-12-20,4,270-->
 

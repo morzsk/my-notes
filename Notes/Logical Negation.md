@@ -19,7 +19,7 @@ cssclasses:
 - A [[Unary Operation|Unary]],  [[Boolean Operation]]
 - Similar to negation – the compliment
 $$-(A)=-A=\bar{A}$$
-<!--SR:!2024-12-12,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **Anatomy of Negation**
 ↓
@@ -32,18 +32,18 @@ $$
 \end{align}
 \quad \bigg\} = \text{Negation}
 $$
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **Properties of Negation**
 ↓
 - [[Involution Property|Involunt]]
 - [[Distributive Property|Distributive]]
 - [[Idempotent Property|Idempotent]]
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-30,14,295-->
 
 ## AND’s Truth Table
 ↓
-<!--SR:!2024-12-13,4,275-->
+<!--SR:!2024-12-31,15,295-->
 
 | $A$ | $Y=\bar{A}$ |
 | --- | ----------- |

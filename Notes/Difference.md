@@ -19,7 +19,7 @@ cssclasses:
 - A [[Binary Operation|Binary]], [[Set Operation]]
 - [[Set]] of all things that have [[Membership]] in A AND NOT B
 $$A-B$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **What is difference of $A = \{ 1, 2, 3, 4\}$ and $B = \{ 2, 3, 4, 5\}$**
 ↓
@@ -30,4 +30,4 @@ B = \{ 2, 3, 4, 5\} \\
 A-B = \{1\}
 \end{align}
 $$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

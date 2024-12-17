@@ -15,4 +15,4 @@ cssclasses:
 ↓
 - Integration layer for [[React]] to access Web
 - Allows react to interact with [[DOM]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

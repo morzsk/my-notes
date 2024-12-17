@@ -15,4 +15,4 @@ cssclasses:
 **What is a Distributed System**
 ↓
 - Multiple systems exchanging data with each other
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

@@ -15,7 +15,7 @@ cssclasses:
 **What is a Set**
 ↓
 A collection of [[Element]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 ![[Pasted image 20241007212500.png]]
 

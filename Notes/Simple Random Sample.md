@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - A form of [[Probability Sampling]]
 -  Randomly picking the sample
-<!--SR:!2024-12-14,7,270-->
+<!--SR:!2025-01-10,25,290-->

@@ -16,4 +16,4 @@ cssclasses:
 **What is a Digital Circuit**
 ↓
 - Are systems/circuits that handle [[Digital Signal]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

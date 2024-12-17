@@ -30,4 +30,4 @@ $$p^2 \leq n$$
 ↓
 - If $n$ is not prime, it must be divisible by $a$ and $b$
 $$n=a \cdot b$$
-<!--SR:!2024-12-13,4,286-->
+<!--SR:!2025-01-02,17,306-->

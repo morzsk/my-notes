@@ -16,13 +16,13 @@ cssclasses:
 - The function your analysing
 - Whose growth rate you want to compare
 $$g(N)$$
-<!--SR:!2024-12-14,2,238-->
+<!--SR:!2024-12-23,7,258-->
 
 **What is the Reference Function**
 ↓
 - Reference or upperbounds for $g(N)$
 f(N)$
-<!--SR:!2024-12-12,3,258-->
+<!--SR:!2024-12-28,12,278-->
 
 **What is Big O Notation**
 ↓
@@ -31,7 +31,7 @@ f(N)$
 - Such that for all values greater than $N_0$
 - The function $g(N)$ is less than or equal to $c_{0} \times f(N)$
 $$O(c_{0} \cdot N_{0})$$
-<!--SR:!2024-12-11,3,258-->
+<!--SR:!2024-12-28,12,278-->
 
 **Purpose of Big O notation**
 - Bound the error we make when we ignore small terms
@@ -44,7 +44,7 @@ $$O(c_{0} \cdot N_{0})$$
 - $g(N)$ does not grow faster than some constant multiple of $f(N)$
 - Establishing upper limit of how fast $g(N)$ can increase
 - In relation to $f(n)$
-<!--SR:!2024-12-10,1,130-->
+<!--SR:!2024-12-18,2,150-->
 
 - [[O(1)]]
 - [[O(log N)]]

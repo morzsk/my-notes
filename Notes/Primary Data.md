@@ -15,10 +15,10 @@ cssclasses:
 **What is Primary Data**
 ↓
 - Data we collect ourselves
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **How do we collect Primary Data**
 ↓
 - Surveys, Questionaires, Focus groups
 - Observation, Experiment, Data-scraping
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

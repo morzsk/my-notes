@@ -21,7 +21,7 @@ z&=a+bi \\
 \bar{z}&=a-bi
 \end{align}
 $$
-<!--SR:!2024-12-12,4,270-->
+<!--SR:!2024-12-31,15,290-->
 
 **What is the product of a conjugate pair**
 ↓
@@ -32,4 +32,4 @@ z \cdot \bar{z} &= (a+bi)(a-bi) \\
 &=a^2+b^2
 \end{align}
 $$
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->

@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - A [[Database Key]]
 - Consists of two or more attributes combined to uniquely identify a record.
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->

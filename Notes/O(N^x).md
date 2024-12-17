@@ -13,10 +13,10 @@ cssclasses:
 ↓
 - Processing data in $x$ groups (pairs, triples)
 - $x$ nested loops
-<!--SR:!2024-12-17,10,270-->
+<!--SR:!2025-01-25,39,290-->
 
 **What is $O(N)$ optimal for**
 ↓
 - Optimal on extremely small sets
-<!--SR:!2024-12-12,4,272-->
+<!--SR:!2024-12-31,15,292-->
 

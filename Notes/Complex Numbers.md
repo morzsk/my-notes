@@ -17,12 +17,12 @@ cssclasses:
 - Where $a$ and $b$ are [[Real Number]] and $i^2=-1$
 - Where $a$ is the **real part** and $b$ is the **imaginary part**
 $$a+bi$$
-<!--SR:!2024-12-12,4,276-->
+<!--SR:!2025-01-01,16,296-->
 
 **When is a Complex Number an [[Imaginary Number]]**
 ↓
 - When $a=0$
-<!--SR:!2024-12-13,4,278-->
+<!--SR:!2025-01-01,16,298-->
 
 ## Complex Arithmetic
 
@@ -48,7 +48,7 @@ $$
 &= (ac-bd)+(ad+bc)i
 \end{align}
 $$
-<!--SR:!2024-12-13,4,278-->
+<!--SR:!2024-12-30,14,298-->
 
 **What is the pattern in powers of $i$**
 ↓
@@ -76,7 +76,7 @@ n &= 3 \text{ then } i = -i \\
 n &= 4 \text{ then } i = 1
 \end{align}
 $$
-<!--SR:!2024-12-13,4,278-->
+<!--SR:!2024-12-31,15,298-->
 
 **How do we divide Complex Numbers**
 ↓
@@ -86,6 +86,6 @@ $$
 \frac{\omega}{z}=\frac{w}{z} \cdot \frac{\bar{z}}{\bar{z}} = \frac{w\bar{z}}{z\bar{z}}
 \end{align}
 $$
-<!--SR:!2024-12-16,7,274-->
+<!--SR:!2025-01-13,28,294-->
 
 3.3

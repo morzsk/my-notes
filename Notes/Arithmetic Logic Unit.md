@@ -17,12 +17,15 @@ aliases:
 ↓
 - A component of [[Central Processing Units]]
 - Performs [[Arithmetic Operation]] and [[Boolean Operation]]
+<!--SR:!2024-12-20,4,270-->
 
 **Inputs to ALU**
 ↓
 - Operands and control signals from the [[Control Unit]]
 - Results of computations sent to [[Register]]and [[Memory]]
+<!--SR:!2024-12-20,4,270-->
 
 **Analogy of ALU**
 ↓
 - A calculator
+<!--SR:!2024-12-20,4,270-->

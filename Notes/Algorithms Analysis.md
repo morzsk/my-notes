@@ -14,7 +14,7 @@ cssclasses:
 - Compare different [[Algorithm]] for the same task
 - Predict performance in a new environment
 - Set values of algorithm parameters
-<!--SR:!2024-12-12,3,268-->
+<!--SR:!2024-12-26,10,288-->
 
 - [[Loop Invariant]]
 
@@ -22,11 +22,11 @@ cssclasses:
 
 **Empirical Analysis**
 ↓
-<!--SR:!2024-12-12,3,268-->
+<!--SR:!2024-12-27,11,288-->
 
 **Mathematical Analysis**
 ↓
-<!--SR:!2024-12-11,3,230-->
+<!--SR:!2024-12-25,9,250-->
 
 **Problems in precise Algorithmic Analysis**
 ↓
@@ -36,7 +36,7 @@ cssclasses:
 2. Performance can vary based on input
 3. Many algorithms haven’t been studied in depth
 4. Two programs might not be comparable
-<!--SR:!2024-12-12,3,268-->
+<!--SR:!2024-12-27,11,288-->
 
 **Steps of Algorithmic Analysis**
 ↓
@@ -44,20 +44,20 @@ cssclasses:
 	- Separating analysis and implementation
 2. Use profile mechanisms (instruction-frequency counts)
 	- To determine most frequency executed part of codes
-<!--SR:!2024-12-12,3,268-->
+<!--SR:!2024-12-28,12,288-->
 
 **Actual Data**
 ↓
 - What would actually happen
-<!--SR:!2024-12-12,3,268-->
+<!--SR:!2024-12-27,11,288-->
 
 **Random Data**
 ↓
 - For average-case performance
-<!--SR:!2024-12-12,3,268-->
+<!--SR:!2024-12-26,10,288-->
 
 **Perverse Data**
 ↓
 - For worst-case performance
-<!--SR:!2024-12-12,3,268-->
+<!--SR:!2024-12-27,11,288-->
 

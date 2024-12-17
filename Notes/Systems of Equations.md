@@ -40,16 +40,16 @@ cssclasses:
 **Linear Combination**
 ↓
 - Multiply two equations by different constants and add them
-<!--SR:!2024-12-11,4,210-->
+<!--SR:!2024-12-29,13,230-->
 
 **Dependent System**
 ↓
 - When a linear equation is a linear combination of the others
 - Also known as redundant equation
-<!--SR:!2024-12-13,6,250-->
+<!--SR:!2025-01-05,20,270-->
 
 **Independent System**
 ↓
 - When no linear equation in a system is a linear combination of the others
-<!--SR:!2024-12-17,5,152-->
+<!--SR:!2024-12-20,3,132-->
 

@@ -15,12 +15,12 @@ cssclasses:
 **What is a Frequency Table**
 ↓
 - A [[Chart]] that tracks how many each outcome occurs in our data
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 
 **Diagram of a Frequency Table**
 ↓
-<!--SR:!2024-12-10,2,250-->
+<!--SR:!2024-12-23,7,270-->
 
 | 1   | 2   | 3   | 4    | 5     | 6   | 7   | 8   |
 | --- | --- | --- | ---- | ----- | --- | --- | --- |

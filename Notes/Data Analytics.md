@@ -16,7 +16,7 @@ cssclasses:
 ↓
 - Techniques and processes used to collect, organise and examine [[Data]] sets
 - To create meaningful and useful information
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **Why is Data Analytics important**
 ↓
@@ -33,12 +33,12 @@ cssclasses:
 2. [[Diagnostic Analytics]]
 3. [[Predictive Analytics]]
 4. [[Prescriptive Analytics]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2025-01-01,16,292-->
 
 **Diagram of Data Analytics**
 ↓
 ![[Pasted image 20240929131919.png]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 ## Benefits of Data Analytics
 
@@ -48,7 +48,7 @@ cssclasses:
 2. Improve Efficiency
 3. Support Decision Making
 4. Present Information Effectively
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 ## Data Analysis Process
 
@@ -56,13 +56,13 @@ cssclasses:
 ↓
 - Process will vary depending on type of data analytics and implementation
 $$\text{Data Analysis Process}=\text{Types of Data Analytics}+\text{Business Implementation}$$
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 **What is Data Mining**
 ↓
 - Process for large data sets
 ![[Pasted image 20240929132836.png|500]]
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **What are the stages of Data Mining**
 ↓
@@ -72,14 +72,14 @@ $$\text{Data Analysis Process}=\text{Types of Data Analytics}+\text{Business Imp
 4. Modelling
 5. Evaluation
 6. Deployment
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-31,15,292-->
 
 ## Data Protection
 
 **What is Data Protection
 ↓
 - Area of law that is designed to protect privacy
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->
 
 **Comply with Data Protection Regulation**
 ↓
@@ -91,4 +91,4 @@ $$\text{Data Analysis Process}=\text{Types of Data Analytics}+\text{Business Imp
 - Only kept for as long as is needed
 - Stored securely
 - Anonymise and identifiable data if possible
-<!--SR:!2024-12-13,4,272-->
+<!--SR:!2024-12-30,14,292-->

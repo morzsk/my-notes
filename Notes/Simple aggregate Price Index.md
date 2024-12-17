@@ -14,4 +14,4 @@ cssclasses:
 - Is a [[Price Index]]
 - The sum of current price divided by the sum of the base price
 $$\frac{\sum P_{t}}{\sum P_{0}} \times 100$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->

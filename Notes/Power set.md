@@ -28,14 +28,14 @@ P(A) &= \{  \\
 \}
 \end{align}
 $$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
 
 **Cardinality of Power Set**
 ↓
 - [[Cardinal Number]] of Power Set equals –
 - 2 to the power of the [[Cardinal Number|Cardinality]] of the set
 $$\#P(A) = 2^{\#A}$$
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2025-01-01,16,290-->
 
 **[[Binary]] representation of power sets**
 ↓
@@ -62,4 +62,4 @@ P(A) &= \{  \\
 \}
 \end{align}
 $$
-<!--SR:!2024-12-11,3,250-->
+<!--SR:!2024-12-28,12,270-->

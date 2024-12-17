@@ -16,4 +16,4 @@ cssclasses:
 ↓
 - Systems designed to store, manage, and retrieve Data efficiently.
 - Made up of [[Key]], [[Record]], [[Satellite Data]]
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-31,15,290-->

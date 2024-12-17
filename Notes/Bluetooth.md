@@ -14,3 +14,4 @@ cssclasses:
 **What is Bluetooth**
 ↓
 - Shorter range wireless communication
+<!--SR:!2024-12-20,4,270-->

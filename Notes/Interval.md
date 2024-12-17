@@ -28,7 +28,7 @@ $$[\text{suprenum}, \text{infimum}]$$
 **Diagram of an Interval**
 ↓
 ![[Pasted image 20240915144014.png]]
-<!--SR:!2024-12-10,62,314-->
+<!--SR:!2025-09-11,269,334-->
 
 **Interval for all real numbers**
 ↓

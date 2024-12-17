@@ -16,4 +16,4 @@ cssclasses:
 - A type of [[Fallacy]]
 - A flaw in reasoning
 - Arises from irrelevant, unclear, or misleading reasonin
-<!--SR:!2024-12-16,7,250-->
+<!--SR:!2025-01-09,24,270-->

@@ -26,7 +26,7 @@ cssclasses:
 **What is a program in HLL called?**
 ↓
 - A `source program` or `source code`
-<!--SR:!2024-12-13,4,286-->
+<!--SR:!2025-01-02,17,306-->
 
 **How is a HLL executed?**
 ↓

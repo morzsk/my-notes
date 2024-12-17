@@ -18,4 +18,4 @@ cssclasses:
 - Using [[Statistics|Statistical]] [[Algorithm]]
 - Make software that can learn from [[Data]]and make generalisations
 - To perform tasks without instructions
-<!--SR:!2024-12-13,4,270-->
+<!--SR:!2024-12-30,14,290-->
