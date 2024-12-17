@@ -6,6 +6,24 @@
       <description>Last 10 notes on Mo&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Po-Shen Loh Method</title>
+    <link>https://morzsk.github.io/my-notes/Po-Shen-Loh-Method</link>
+    <guid>https://morzsk.github.io/my-notes/Po-Shen-Loh-Method</guid>
+    <description>What is The Po-Shen Loh Method What do we know about the roots of a quadratic ↓ x^2-(r+s)x+rs by Vieta’s Formula We can get midpoint by getting Arithmetic Mean of roots We can get the distance ...</description>
+    <pubDate>Tue, 17 Dec 2024 16:11:35 GMT</pubDate>
+  </item><item>
+    <title>Factorisation</title>
+    <link>https://morzsk.github.io/my-notes/Factorisation</link>
+    <guid>https://morzsk.github.io/my-notes/Factorisation</guid>
+    <description>What is Factorisation What is Factorisation ↓ The process by which you get Factor How to approximate factors of 35 ↓ \begin{align} 35 &amp;\approx 36 \\ 35 &amp;\approx 6^{2} \\ 5 \cdot ...</description>
+    <pubDate>Tue, 17 Dec 2024 14:36:08 GMT</pubDate>
+  </item><item>
+    <title>Factor</title>
+    <link>https://morzsk.github.io/my-notes/Factor</link>
+    <guid>https://morzsk.github.io/my-notes/Factor</guid>
+    <description>What is a Factor What is a Factor ↓.</description>
+    <pubDate>Tue, 17 Dec 2024 14:28:04 GMT</pubDate>
+  </item><item>
     <title>Address Generation Unit</title>
     <link>https://morzsk.github.io/my-notes/Address-Generation-Unit</link>
     <guid>https://morzsk.github.io/my-notes/Address-Generation-Unit</guid>
@@ -47,24 +65,6 @@
     <guid>https://morzsk.github.io/my-notes/Wireless-Fidelity</guid>
     <description>What is Wireless Fidelity What is Wireless Fidelity ↓ A medium of Wireless Communication Uses Radio Waves to communicate .</description>
     <pubDate>Mon, 16 Dec 2024 17:25:33 GMT</pubDate>
-  </item><item>
-    <title>5G</title>
-    <link>https://morzsk.github.io/my-notes/5G</link>
-    <guid>https://morzsk.github.io/my-notes/5G</guid>
-    <description>What is 5G What is 5G ↓ 5th generation of Cellular Network What are 5G speeds ↓ Speeds ranging 60 \text{ Mb/s} to several 2000 \text{ Mb/s} 1ms latency When was 5G introduced ↓ 2009 ...</description>
-    <pubDate>Mon, 16 Dec 2024 16:52:52 GMT</pubDate>
-  </item><item>
-    <title>History of Gaming</title>
-    <link>https://morzsk.github.io/my-notes/History-of-Gaming</link>
-    <guid>https://morzsk.github.io/my-notes/History-of-Gaming</guid>
-    <description>1950 Bertie The Brain/Game Made for demonstration Played TicTacToe 1958 Tennis for 2 Made for entertainment On analgoue computer by creator responsible for atomic bomb 1962 Spacewar ...</description>
-    <pubDate>Sun, 15 Dec 2024 21:44:03 GMT</pubDate>
-  </item><item>
-    <title>Control Unit</title>
-    <link>https://morzsk.github.io/my-notes/Control-Unit</link>
-    <guid>https://morzsk.github.io/my-notes/Control-Unit</guid>
-    <description>What is a Control Unit What is a Control Unit ↓ Component of Central Processing Units Directs operations of Processor Interprets instructions from Program And controls flow of data ...</description>
-    <pubDate>Mon, 09 Dec 2024 21:39:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
