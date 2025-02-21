@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/Project Mining Trajedy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Project Mining Trajedy"
             }
           },
           {
@@ -264,6 +264,8 @@
   },
   "active": "64860b2f7744eeb5",
   "lastOpenFiles": [
+    "Notes/index.md",
+    "Notes/Project Mining Trajedy.md",
     "docs/index.xml",
     "docs/sitemap.xml",
     "docs/index.html",
@@ -274,7 +276,6 @@
     "docs/Pasted-image-20250221215448.png",
     "docs/static/icon.png",
     "docs/static/og-image.png",
-    "Notes/index.md",
     "Notes/Arithmetic.md",
     "Notes/Algebra.md",
     "Notes/Mathematics.md",
@@ -312,7 +313,6 @@
     "test",
     "Resources/Canvas/Programming Language Timeline.canvas",
     "Resources/Canvas/Untitled.canvas",
-    "docs/404.html",
     "Resources/Canvas/React.canvas",
     "Resources/Excalidraw/Vehicle.canvas",
     "Untitled 1.canvas",
