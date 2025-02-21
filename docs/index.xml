@@ -6,65 +6,35 @@
       <description>Last 10 notes on Mo&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Po-Shen Loh Method</title>
-    <link>https://morzsk.github.io/my-notes/Po-Shen-Loh-Method</link>
-    <guid>https://morzsk.github.io/my-notes/Po-Shen-Loh-Method</guid>
-    <description>What is The Po-Shen Loh Method What do we know about the roots of a quadratic ↓ x^2-(r+s)x+rs by Vieta’s Formula We can get midpoint by getting Arithmetic Mean of roots We can get the distance ...</description>
-    <pubDate>Tue, 17 Dec 2024 16:11:35 GMT</pubDate>
+    <title>Arithmetic</title>
+    <link>https://morzsk.github.io/my-notes/Arithmetic</link>
+    <guid>https://morzsk.github.io/my-notes/Arithmetic</guid>
+    <description></description>
+    <pubDate>Fri, 21 Feb 2025 21:56:27 GMT</pubDate>
   </item><item>
-    <title>Factorisation</title>
-    <link>https://morzsk.github.io/my-notes/Factorisation</link>
-    <guid>https://morzsk.github.io/my-notes/Factorisation</guid>
-    <description>What is Factorisation What is Factorisation ↓ The process by which you get Factor How to approximate factors of 35 ↓ \begin{align} 35 &amp;\approx 36 \\ 35 &amp;\approx 6^{2} \\ 5 \cdot ...</description>
-    <pubDate>Tue, 17 Dec 2024 14:36:08 GMT</pubDate>
+    <title>Algebra</title>
+    <link>https://morzsk.github.io/my-notes/Algebra</link>
+    <guid>https://morzsk.github.io/my-notes/Algebra</guid>
+    <description></description>
+    <pubDate>Fri, 21 Feb 2025 21:55:29 GMT</pubDate>
   </item><item>
-    <title>Factor</title>
-    <link>https://morzsk.github.io/my-notes/Factor</link>
-    <guid>https://morzsk.github.io/my-notes/Factor</guid>
-    <description>What is a Factor What is a Factor ↓.</description>
-    <pubDate>Tue, 17 Dec 2024 14:28:04 GMT</pubDate>
+    <title>Mathematics</title>
+    <link>https://morzsk.github.io/my-notes/Mathematics</link>
+    <guid>https://morzsk.github.io/my-notes/Mathematics</guid>
+    <description></description>
+    <pubDate>Fri, 21 Feb 2025 21:54:25 GMT</pubDate>
   </item><item>
-    <title>Address Generation Unit</title>
-    <link>https://morzsk.github.io/my-notes/Address-Generation-Unit</link>
-    <guid>https://morzsk.github.io/my-notes/Address-Generation-Unit</guid>
-    <description>What is Address Generation Unit What is Address Generation Unit ↓ A component of CPU Responsible for calculating MemoryAddress For instructions and data Key functions of AGU ↓ Computes ...</description>
-    <pubDate>Mon, 16 Dec 2024 20:00:19 GMT</pubDate>
+    <title>Maps of Content</title>
+    <link>https://morzsk.github.io/my-notes/Maps-of-Content</link>
+    <guid>https://morzsk.github.io/my-notes/Maps-of-Content</guid>
+    <description> Mathematics Arithmetic Algebra .</description>
+    <pubDate>Fri, 21 Feb 2025 21:51:02 GMT</pubDate>
   </item><item>
-    <title>Arithmetic Logic Unit</title>
-    <link>https://morzsk.github.io/my-notes/Arithmetic-Logic-Unit</link>
-    <guid>https://morzsk.github.io/my-notes/Arithmetic-Logic-Unit</guid>
-    <description>What is Arithmetic Logic Unit What is Arithmetic Logic Unit ↓ A component of Central Processing Units Performs Arithmetic Operation and Boolean Operation Inputs to ALU ↓ Operands ...</description>
-    <pubDate>Mon, 16 Dec 2024 19:48:14 GMT</pubDate>
-  </item><item>
-    <title>Infrastructure as a Service</title>
-    <link>https://morzsk.github.io/my-notes/Infrastructure-as-a-Service</link>
-    <guid>https://morzsk.github.io/my-notes/Infrastructure-as-a-Service</guid>
-    <description>What is Infrastructure as a Service What is Infrastructure as a Service ↓ A Cloud Computing Service Model Provides computing resource (e.g. servers, storage, networking) over the internet Offers most controls, as user manage OS, application and data Features of IaaS ↓ High scalability and flexibility Pay-as-you-go pricing models for compute power, storage and bandwith Ideal for business that want to avoid cost and complexity of owning physical infrastructure Uses of IaaS ↓ Hosting websites and application Big data analytics and storage Disaster recovery and backup .</description>
-    <pubDate>Mon, 16 Dec 2024 18:51:49 GMT</pubDate>
-  </item><item>
-    <title>Platform as a Service</title>
-    <link>https://morzsk.github.io/my-notes/Platform-as-a-Service</link>
-    <guid>https://morzsk.github.io/my-notes/Platform-as-a-Service</guid>
-    <description>What is Platform as a Service What is Software as a Service ↓ A Cloud Computing Service Model Provides platform and environment For building, testing and deploying applications Without ...</description>
-    <pubDate>Mon, 16 Dec 2024 17:54:36 GMT</pubDate>
-  </item><item>
-    <title>Software as a Service</title>
-    <link>https://morzsk.github.io/my-notes/Software-as-a-Service</link>
-    <guid>https://morzsk.github.io/my-notes/Software-as-a-Service</guid>
-    <description>What is Software as a Service What is Software as a Service ↓ A Cloud Computing Service Model Delivers Software applications over the internet On a subscription basis Removing need ...</description>
-    <pubDate>Mon, 16 Dec 2024 17:50:11 GMT</pubDate>
-  </item><item>
-    <title>Bluetooth</title>
-    <link>https://morzsk.github.io/my-notes/Bluetooth</link>
-    <guid>https://morzsk.github.io/my-notes/Bluetooth</guid>
-    <description>What is Bluetooth What is Bluetooth ↓ Shorter range wireless communication .</description>
-    <pubDate>Mon, 16 Dec 2024 17:31:54 GMT</pubDate>
-  </item><item>
-    <title>Wireless Fidelity</title>
-    <link>https://morzsk.github.io/my-notes/Wireless-Fidelity</link>
-    <guid>https://morzsk.github.io/my-notes/Wireless-Fidelity</guid>
-    <description>What is Wireless Fidelity What is Wireless Fidelity ↓ A medium of Wireless Communication Uses Radio Waves to communicate .</description>
-    <pubDate>Mon, 16 Dec 2024 17:25:33 GMT</pubDate>
+    <title>index</title>
+    <link>https://morzsk.github.io/my-notes/</link>
+    <guid>https://morzsk.github.io/my-notes/</guid>
+    <description>Welcome to my notes, I typically dump whatever interests me at any moment, right now it is Mathematics and Physics. You can navigate all of that through my convenient Maps of Content.</description>
+    <pubDate>Fri, 21 Feb 2025 21:49:49 GMT</pubDate>
   </item>
     </channel>
   </rss>

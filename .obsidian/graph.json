@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-(#🌱) -(#flashcards)",
+  "search": "-(#excalidraw)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
       "query": "tag:#computer-science  ",
       "color": {
         "a": 1,
@@ -25,13 +32,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1.01875,
+  "nodeSizeMultiplier": 0.997109207708779,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.598958333333333,
-  "repelStrength": 12.3958333333333,
+  "centerStrength": 0.541666666666667,
+  "repelStrength": 12.7083333333333,
   "linkStrength": 0.630208333333333,
   "linkDistance": 30,
-  "scale": 0.13873223932666082,
-  "close": false
+  "scale": 1.0534979423868305,
+  "close": true
 }

@@ -6,7 +6,7 @@
     "Resources/Quartz/"
   ],
   "alwaysUpdateLinks": true,
-  "vimMode": true,
+  "vimMode": false,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
