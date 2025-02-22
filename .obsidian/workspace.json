@@ -11,12 +11,14 @@
             "id": "32fd765ca9dd2d3a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics.md"
+                "file": "Notes/Marching Squares.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Mathematics"
+              "icon": "lucide-file",
+              "title": "Marching Squares"
             }
           },
           {
@@ -48,6 +50,18 @@
             }
           },
           {
+            "id": "5dd1454516be9b81",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Notes/Pasted image 20250222001210.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250222001210"
+            }
+          },
+          {
             "id": "d1b53b154185ebe1",
             "type": "leaf",
             "state": {
@@ -61,8 +75,7 @@
               "title": "FExponentiation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             }
           },
           {
-            "id": "57cac5720e217574",
+            "id": "1edf6976c0fe78e6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -125,7 +138,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -262,10 +276,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64860b2f7744eeb5",
+  "active": "32fd765ca9dd2d3a",
   "lastOpenFiles": [
     "Notes/index.md",
+    "Notes/Mathematics.md",
+    "Notes/Pasted image 20250222001210.png",
+    "Notes/Marching Squares.md",
+    "Private/Marching Cubes.excalidraw.md",
+    "Private/Algebra.excalidraw.md",
+    "Private/Mathematics.excalidraw.md",
+    "Notes/Algebra.md",
     "Notes/Project Mining Trajedy.md",
+    "Tags/#excalidraw",
     "docs/index.xml",
     "docs/sitemap.xml",
     "docs/index.html",
@@ -277,8 +299,6 @@
     "docs/static/icon.png",
     "docs/static/og-image.png",
     "Notes/Arithmetic.md",
-    "Notes/Algebra.md",
-    "Notes/Mathematics.md",
     "Notes/Maps of Content.md",
     "docs/Mathematics.html",
     "docs/Maps-of-Content.html",
@@ -288,11 +308,8 @@
     "Private/Arithmetic.excalidraw.md",
     "Private/Untitled.md",
     "Notes/Pasted image 20250221215604.png",
-    "Private/Algebra.excalidraw.md",
     "Notes/Pasted image 20250221215448.png",
-    "Private/Mathematics.excalidraw.md",
     "Resources/Pasted Image 20250213155404_430.png",
-    "Resources/Pasted Image 20250213155437_325.png",
     "Private/Fill.md",
     "Private/Plan.md",
     "Private/FExponentiation.md",
@@ -306,11 +323,7 @@
     "Notes/Expression.md",
     "Notes/Set Theory.md",
     "Notes/Drawing 2025-02-09 15.25.07.excalidraw.md",
-    "Notes/Studop.md",
-    "Notes/Hexidecimal.md",
-    "Notes/My Note-Taking Strategy.md",
     "Untitled.canvas",
-    "test",
     "Resources/Canvas/Programming Language Timeline.canvas",
     "Resources/Canvas/Untitled.canvas",
     "Resources/Canvas/React.canvas",

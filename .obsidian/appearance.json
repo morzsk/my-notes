@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "textFontFamily": "American Typewriter",
   "interfaceFontFamily": "American Typewriter",
-  "baseFontSize": 18,
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "theorem-callout"
   ],
