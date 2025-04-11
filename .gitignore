@@ -1,5 +1,6 @@
 # Ignore the node_modules directory in Quartz
 /Resources/Quartz/node_modules/
+/Resources/Kanban/
 /Private/
 
 # Other ignore rules can go here

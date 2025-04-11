@@ -1,11 +1,15 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
-const currentTheme = localStorage.getItem("theme") ?? userPref
+//const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+//const currentTheme = localStorage.getItem("theme") ?? userPref
+import { getUserPreferredColorScheme, renderThemedLinks } from "./util"
+
+const currentTheme = localStorage.getItem("theme") ?? getUserPreferredColorScheme()
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
 const emitThemeChangeEvent = (theme: "light" | "dark") => {
   const event: CustomEventMap["themechange"] = new CustomEvent("themechange", {
     detail: { theme },
   })
+  renderThemedLinks(theme);
   document.dispatchEvent(event)
 }
 

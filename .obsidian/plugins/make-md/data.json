@@ -37,10 +37,12 @@
   "expandedSpaces": [
     "/",
     "//maths",
-    "//Resources/Resources/Excalidraw/Resources/Excalidraw/Solutions",
     "//Resources/Resources/Excalidraw/Resources/Excalidraw/Diagrams",
     "//Tags",
-    "//Notes"
+    "//Notes",
+    "//Resources",
+    "//Resources/Resources/Excalidraw",
+    "//Resources/Resources/Kanban"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

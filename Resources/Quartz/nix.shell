@@ -2,6 +2,7 @@
 
 let
   contentDir = "../../Notes";
+  excalidrawDir = "../../Resources/Excalidraw";
   publicDir = "../../docs";
 in
 pkgs.mkShell {
@@ -15,8 +16,11 @@ pkgs.mkShell {
     export PUBLIC_DIR=${publicDir}
 
     if [ -d "node_modules" ]; then
-      echo "node_modules directory exists. Running npx quartz build..."
+      echo "node_modules directory exists."
+
+      echo "Running npx quartz build..."
       npx quartz build -d ${contentDir} -o ${publicDir}
+
     else
       echo "node_modules directory does not exist. Skipping npx quartz build."
     fi

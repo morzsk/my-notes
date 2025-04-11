@@ -8,8 +8,8 @@ cssclasses:
 ---
 Welcome to my notes,
 
-I typically dump whatever interests me at any moment, right now it is Mathematics and Physics.
-
-You can navigate all of that through my convenient [[Maps of Content]].
+I typically dump whatever interests me at any moment, right now it is [[Computer Science]], [[Mathematics]], and [[Physics]].
 
 Take care!
+
+![[Pasted image 20250411225255.png]]
