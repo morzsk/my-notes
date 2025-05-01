@@ -8,72 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24a5e7667b9d3ccc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/Excalidraw/Nix.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Nix.excalidraw"
-            }
-          },
-          {
-            "id": "c5327885be2dc0e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/Excalidraw/C.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "C.excalidraw"
-            }
-          },
-          {
             "id": "c7d9f406a20ebaa7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Resources/Excalidraw/OSI.excalidraw.md"
+                "file": "Resources/Excalidraw/Calculus.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "OSI.excalidraw"
+              "title": "Calculus.excalidraw"
             }
           },
           {
-            "id": "2fde17c9f0150801",
+            "id": "190d5b95bc9c4d12",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Resources/Excalidraw/Topology.excalidraw.md"
+                "file": "Resources/Images/Pasted image 20250501155857.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Topology.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250501155857"
             }
           },
           {
-            "id": "85cddf736bf630f5",
+            "id": "e844fd5827e627f1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "Resources/Kanban/Short-Term Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Resources/Pasted Image 20250426194006_652.png"
               },
-              "icon": "lucide-trello",
-              "title": "Short-Term Todo"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250426194006_652"
+            }
+          },
+          {
+            "id": "37840c024cf59a60",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Pasted Image 20250426194006_652.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250426194006_652"
+            }
+          },
+          {
+            "id": "bf0e418a7c08279b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Pasted Image 20250426194006_652.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250426194006_652"
             }
           },
           {
@@ -85,7 +76,7 @@
                 "path": "Resources/Excalidraw"
               },
               "icon": "lucide-file",
-              "title": "Excalidraw"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -99,23 +90,9 @@
               "icon": "lucide-image",
               "title": "Pasted image 20250411223316"
             }
-          },
-          {
-            "id": "12408067d022dd27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +146,7 @@
             }
           },
           {
-            "id": "a3378b4fa15139d7",
+            "id": "5d9d6232b873c303",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -294,6 +271,16 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "a4cdd8f1f881e6f1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 5
@@ -309,61 +296,61 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templates:Insert template": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "12408067d022dd27",
+  "active": "ada16fd23c7844c4",
   "lastOpenFiles": [
-    "docs/Pasted-image-20250411225255.png",
-    "docs/sitemap.xml",
-    "docs/index.html",
-    "docs/prescript.js",
-    "Notes/Pasted image 20250411225255.png",
-    "Notes/index.md",
-    "Resources/Excalidraw/Drawing 2025-04-11 22.37.21.excalidraw.md",
-    "docs/Pasted-image-20250411224842.png",
-    "docs/index.xml",
-    "docs/postscript.js",
-    "Notes/Physics.md",
-    "Notes/Mathematics.md",
-    "Resources/Pasted Image 20250411224022_264.png",
-    "Notes/Pasted image 20250411224842.png",
-    "Notes/Pasted image 20250411223316.png",
     "docs/404.html",
-    "docs/Pasted-image-20250411223316.png",
-    "docs/Pasted-image-20250411223240.png",
-    "docs/Pasted-image-20250411223209.png",
-    "docs/Pasted-image-20250411223114.png",
-    "docs/Pasted-image-20250411223035.png",
+    "docs/Pasted-image-20250501155857.png",
+    "docs/static/og-image.png",
+    "docs/static/icon.png",
     "docs/static/contentIndex.json",
     "docs/static",
+    "docs/index.xml",
+    "docs/sitemap.xml",
     "docs/tags/index.html",
-    "docs/tags/excalidraw.html",
-    "Notes/Computer Science.md",
-    "Resources/Excalidraw/C.excalidraw.md",
+    "docs/tags",
+    "docs/index.html",
+    "docs/prescript.js",
+    "docs/postscript.js",
+    "docs/index.css",
+    "Notes/Pasted image 20250501155857.png",
+    "Resources/Images/Pasted image 20250501155857.png",
     "Resources/Excalidraw/Nix.excalidraw.md",
-    "Resources/Excalidraw/Nix-Problem.excalidraw.md",
-    "Resources/Excalidraw/Statistics.excalidraw.md",
     "Resources/Excalidraw/Calculus.excalidraw.md",
-    "Resources/Excalidraw/Linear Algebra.excalidraw.md",
+    "Resources/Excalidraw/Number Systems.excalidraw.md",
+    "Resources/Excalidraw/Exponentiation.md",
     "Resources/Excalidraw/Algebra.excalidraw.md",
-    "Resources/Excalidraw/Old-Algebra.excalidraw.md",
-    "Resources/Kanban/Short-Term Todo.md",
-    "Notes/Statistics.excalidraw.md",
-    "Notes/Old-Algebra.excalidraw.md",
-    "Notes/Nix-Problem.excalidraw.md",
-    "Notes/Nix.excalidraw.md",
-    "Notes/Marching Cubes.excalidraw.md",
-    "Notes/Linear Algebra.excalidraw.md",
-    "Notes/Headers.excalidraw.md",
-    "Notes/C.excalidraw.md",
-    "Notes/Calculus.excalidraw.md",
-    "Notes/Algebra.excalidraw.md",
+    "Resources/Excalidraw/Headers.excalidraw.md",
+    "Private/Bookmarks.md",
+    "Resources/Images/Pasted Image 20250213155017_196.png",
+    "Resources/Images/Pasted Image 20250213154828_236.png",
+    "Resources/Images/Pasted image 20250208125029.png",
+    "Resources/Images/Pasted image 20250208122917.png",
+    "Resources/Images/Pasted Image 20250213155209_723.png",
+    "Notes/index.md",
+    "Private/Left-Pad Incident.md",
+    "Private/Dump.md",
+    "Private/Work.md",
+    "Private/FExponentiation.md",
+    "Private/Logs.md",
+    "Private/Doodles.md",
+    "Private/Drawing 2025-04-11 22.37.21.excalidraw.md",
+    "Notes/Physics.md",
+    "Notes/Mathematics.md",
+    "Notes/Cheat Sheet.md",
+    "Notes/Computer Science.md",
+    "Resources/Kanban/Long-Term Todo.md",
     "Resources/Kanban/Mid-Term Todo.md",
+    "Resources/Kanban/Short-Term Todo.md",
+    "Resources/Templates/Problem.excalidraw.md",
+    "Resources/Templates/Flashcard.md",
+    "Resources/Excalidraw/Solutions/Stewart's Calculus.excalidraw.md",
     "Untitled.canvas",
     "Resources/Canvas/Programming Language Timeline.canvas",
     "Resources/Canvas/Untitled.canvas",

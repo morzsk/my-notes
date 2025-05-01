@@ -1,11 +1,10 @@
 [
-  "obsidian-minimal-settings",
-  "persistent-graph",
-  "obsidian-smart-typography",
   "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
   "obsidian-latex-suite",
   "make-md",
+  "obsidian-minimal-settings",
+  "persistent-graph",
   "obsidian-spaced-repetition",
-  "obsidian-pandoc",
-  "obsidian-kanban"
+  "obsidian-smart-typography"
 ]

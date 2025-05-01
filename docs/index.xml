@@ -6,28 +6,10 @@
       <description>Last 10 notes on Mo&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Physics</title>
-    <link>https://morzsk.github.io/my-notes/Physics</link>
-    <guid>https://morzsk.github.io/my-notes/Physics</guid>
-    <description>4.75 9.75 12.75 10 18 8.5.</description>
-    <pubDate>Mon, 31 Mar 2025 17:11:24 GMT</pubDate>
-  </item><item>
-    <title>Mathematics</title>
-    <link>https://morzsk.github.io/my-notes/Mathematics</link>
-    <guid>https://morzsk.github.io/my-notes/Mathematics</guid>
-    <description>Algebra Calculus Statistics .</description>
-    <pubDate>Mon, 31 Mar 2025 17:11:21 GMT</pubDate>
-  </item><item>
-    <title>Computer Science</title>
-    <link>https://morzsk.github.io/my-notes/Computer-Science</link>
-    <guid>https://morzsk.github.io/my-notes/Computer-Science</guid>
-    <description>Nix Problem Set Nix Compiler .</description>
-    <pubDate>Mon, 31 Mar 2025 17:07:38 GMT</pubDate>
-  </item><item>
     <title>index</title>
     <link>https://morzsk.github.io/my-notes/</link>
     <guid>https://morzsk.github.io/my-notes/</guid>
-    <description>Welcome to my notes, I typically dump whatever interests me at any moment, right now it is Computer Science, Mathematics, and Physics. Take care! .</description>
+    <description> Welcome to my notes, I typically dump whatever interests me at any moment. Take care!.</description>
     <pubDate>Fri, 21 Feb 2025 21:49:49 GMT</pubDate>
   </item>
     </channel>
