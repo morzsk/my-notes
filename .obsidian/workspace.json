@@ -23,12 +23,14 @@
             "id": "190d5b95bc9c4d12",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Images/Pasted image 20250501155857.png"
+                "file": "Notes/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250501155857"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -303,24 +305,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ada16fd23c7844c4",
+  "active": "190d5b95bc9c4d12",
   "lastOpenFiles": [
+    "docs/index.xml",
+    "docs/sitemap.xml",
+    "docs/index.html",
+    "Resources/Images/Pasted image 20250501155857.png",
     "docs/404.html",
     "docs/Pasted-image-20250501155857.png",
     "docs/static/og-image.png",
     "docs/static/icon.png",
     "docs/static/contentIndex.json",
     "docs/static",
-    "docs/index.xml",
-    "docs/sitemap.xml",
     "docs/tags/index.html",
     "docs/tags",
-    "docs/index.html",
     "docs/prescript.js",
     "docs/postscript.js",
-    "docs/index.css",
     "Notes/Pasted image 20250501155857.png",
-    "Resources/Images/Pasted image 20250501155857.png",
     "Resources/Excalidraw/Nix.excalidraw.md",
     "Resources/Excalidraw/Calculus.excalidraw.md",
     "Resources/Excalidraw/Number Systems.excalidraw.md",
