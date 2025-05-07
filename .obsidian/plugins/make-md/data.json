@@ -42,9 +42,7 @@
     "//maths",
     "//Resources/Resources/Excalidraw/Resources/Excalidraw/Diagrams",
     "//Tags",
-    "//Notes",
-    "//Resources",
-    "//Resources/Resources/Images"
+    "//Resources/Resources/Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

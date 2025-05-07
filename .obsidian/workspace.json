@@ -4,97 +4,143 @@
     "type": "split",
     "children": [
       {
-        "id": "e674cc2fffb10d98",
+        "id": "061b289c31f1aba2",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d9f406a20ebaa7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resources/Excalidraw/Calculus.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Calculus.excalidraw"
-            }
-          },
-          {
-            "id": "190d5b95bc9c4d12",
+            "id": "79ccde8df027e8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/Nix Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Nix Language"
             }
           },
           {
-            "id": "e844fd5827e627f1",
+            "id": "ecbe5418d28b2468",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Pasted Image 20250426194006_652.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250426194006_652"
-            }
-          },
-          {
-            "id": "37840c024cf59a60",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Pasted Image 20250426194006_652.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250426194006_652"
-            }
-          },
-          {
-            "id": "bf0e418a7c08279b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Pasted Image 20250426194006_652.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250426194006_652"
-            }
-          },
-          {
-            "id": "f9ec27aee30f45ae",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Resources/Excalidraw"
+                "file": "Notes/Nixpkgs.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Nixpkgs"
             }
           },
           {
-            "id": "c16f79c594e75313",
+            "id": "fa0623cb418898f5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Pasted image 20250411223316.png"
+                "file": "Notes/Nix Store.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250411223316"
+              "icon": "lucide-file",
+              "title": "Nix Store"
+            }
+          },
+          {
+            "id": "11a7800fa7feda92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Nix CLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nix CLI"
+            }
+          },
+          {
+            "id": "5bd7eb8c4b314dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Nix Derivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nix Derivation"
+            }
+          },
+          {
+            "id": "6147ab3f3569ae76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Nix Derivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nix Derivation"
+            }
+          },
+          {
+            "id": "c925dee64abd62e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Private/Headers.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Headers.excalidraw"
+            }
+          },
+          {
+            "id": "2e6e82007b4b0459",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resources/Excalidraw/Olympiad.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Olympiad.excalidraw"
+            }
+          },
+          {
+            "id": "1db4e1bfd7650b94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resources/Excalidraw/Algebra.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Algebra.excalidraw"
+            }
+          },
+          {
+            "id": "031430fe0ebb6cbe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resources/Excalidraw/Linear Algebra.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Linear Algebra.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -148,7 +194,7 @@
             }
           },
           {
-            "id": "5d9d6232b873c303",
+            "id": "764779dc5fdbf97b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -305,53 +351,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "190d5b95bc9c4d12",
+  "active": "031430fe0ebb6cbe",
   "lastOpenFiles": [
+    "Resources/Excalidraw/Algebra.excalidraw.md",
+    "Notes/Mathematics.md",
+    "Notes/index.md",
+    "Notes/Pasted image 20250501155857.png",
+    "Notes/Logarithm.md",
+    "Resources/Excalidraw/Olympiad.excalidraw.md",
+    "Resources/Excalidraw/Linear Algebra.excalidraw.md",
+    "Resources/Excalidraw/Nix.excalidraw.md",
+    "Resources/Excalidraw/Headers.excalidraw.md",
+    "Private/Headers.excalidraw.md",
+    "Private/Bookmarks.md",
+    "Resources/Excalidraw/Exponentiation.md",
+    "Resources/Excalidraw/Number Systems.excalidraw.md",
+    "Resources/Kanban/Short-Term Todo.md",
+    "Resources/Kanban/Long-Term Todo.md",
+    "Resources/Images/Pasted image 20250208122917.png",
+    "Resources/Images/Pasted image 20250208125029.png",
+    "Resources/Images/Pasted Image 20250213154828_236.png",
+    "Resources/Images/Pasted Image 20250213155017_196.png",
+    "Resources/Images/Pasted Image 20250213155104_770.png",
+    "Resources/Images/Pasted Image 20250213155209_723.png",
+    "Resources/Images/Pasted Image 20250213155333_222.png",
+    "Resources/Images/Pasted Image 20250213155404_430.png",
+    "Resources/Images/Pasted Image 20250213155437_325.png",
+    "Resources/Excalidraw/Calculus.excalidraw.md",
+    "Notes/Subtraction.md",
+    "Resources/Templates/Flashcard.md",
+    "Notes/Nix Language.md",
+    "Notes/Domain Specific Language.md",
+    "Notes/Declarative Language.md",
+    "Notes/Functional Language.md",
+    "Notes/Nixpkgs.md",
+    "Notes/NixOS.md",
+    "Notes/Addition.md",
+    "Notes/Nix Store.md",
+    "Notes/Nix CLI.md",
     "docs/index.xml",
     "docs/sitemap.xml",
     "docs/index.html",
-    "Resources/Images/Pasted image 20250501155857.png",
     "docs/404.html",
-    "docs/Pasted-image-20250501155857.png",
-    "docs/static/og-image.png",
-    "docs/static/icon.png",
     "docs/static/contentIndex.json",
     "docs/static",
     "docs/tags/index.html",
     "docs/tags",
     "docs/prescript.js",
     "docs/postscript.js",
-    "Notes/Pasted image 20250501155857.png",
-    "Resources/Excalidraw/Nix.excalidraw.md",
-    "Resources/Excalidraw/Calculus.excalidraw.md",
-    "Resources/Excalidraw/Number Systems.excalidraw.md",
-    "Resources/Excalidraw/Exponentiation.md",
-    "Resources/Excalidraw/Algebra.excalidraw.md",
-    "Resources/Excalidraw/Headers.excalidraw.md",
-    "Private/Bookmarks.md",
-    "Resources/Images/Pasted Image 20250213155017_196.png",
-    "Resources/Images/Pasted Image 20250213154828_236.png",
-    "Resources/Images/Pasted image 20250208125029.png",
-    "Resources/Images/Pasted image 20250208122917.png",
-    "Resources/Images/Pasted Image 20250213155209_723.png",
-    "Notes/index.md",
-    "Private/Left-Pad Incident.md",
-    "Private/Dump.md",
-    "Private/Work.md",
-    "Private/FExponentiation.md",
-    "Private/Logs.md",
-    "Private/Doodles.md",
-    "Private/Drawing 2025-04-11 22.37.21.excalidraw.md",
-    "Notes/Physics.md",
-    "Notes/Mathematics.md",
-    "Notes/Cheat Sheet.md",
-    "Notes/Computer Science.md",
-    "Resources/Kanban/Long-Term Todo.md",
-    "Resources/Kanban/Mid-Term Todo.md",
-    "Resources/Kanban/Short-Term Todo.md",
-    "Resources/Templates/Problem.excalidraw.md",
-    "Resources/Templates/Flashcard.md",
-    "Resources/Excalidraw/Solutions/Stewart's Calculus.excalidraw.md",
     "Untitled.canvas",
     "Resources/Canvas/Programming Language Timeline.canvas",
     "Resources/Canvas/Untitled.canvas",

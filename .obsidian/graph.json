@@ -1,44 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "-(#excalidraw)",
+  "search": "-tag:#excalidraw -tag:#mathematics",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#mathematics  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#physics  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#computer-science  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 0.997109207708779,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.541666666666667,
-  "repelStrength": 12.7083333333333,
-  "linkStrength": 0.630208333333333,
-  "linkDistance": 30,
-  "scale": 0.9806051619527426,
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 0.540853432282004,
+  "linkDistance": 250,
+  "scale": 0.223100135516438,
+  "close": false
 }
