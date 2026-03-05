@@ -13,7 +13,9 @@ VAULT_PATH = Path("../my-vault")
 NOTES_PATH = VAULT_PATH / "Notes"
 LITERATURE_PATH = NOTES_PATH / "Literature"
 ARTICLE_PATH = NOTES_PATH / "Articles"
-IMAGES_PATH = VAULT_PATH / "Resources" / "Images"
+RESOURCES_PATH = VAULT_PATH / "Resources"
+EXCALIDRAW_PATH = RESOURCES_PATH / "Excalidraw"
+IMAGES_PATH = RESOURCES_PATH / "Images"
 
 MD_PATTERN = "*.md"
 IMG_PATTERN = "*.png"
@@ -24,6 +26,9 @@ for path in LITERATURE_PATH.rglob(MD_PATTERN):
 for path in ARTICLE_PATH.rglob(MD_PATTERN):
     shutil.copy(path, CONTENT_PATH)
     
+for path in EXCALIDRAW_PATH.rglob(IMG_PATTERN):
+    shutil.copy(path, CONTENT_PATH)
+
 for path in IMAGES_PATH.rglob(IMG_PATTERN):
     shutil.copy(path, CONTENT_PATH)
 
