@@ -12,7 +12,5 @@ Welcome to my notes,
 
 I typically dump whatever interests me at any moment. Right now it’s: [[Computer Science]], and [[Mathematics]].
 
-Sometimes I write pieces like: [[Eurisko A Tale of an Ancient AI]], [[Lisp Wars]]
-
 Take care!
 

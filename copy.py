@@ -27,7 +27,7 @@ for path in IMAGES_PATH.rglob(IMG_PATTERN):
     shutil.copy(path, CONTENT_PATH)
 
 subprocess.run(
-    ["npx", "quartz", "build", "-d", str(CONTENT_PATH), "-o", str(DOCS_PATH)],
+    ["npx", "quartz", "build", "-d", str(".." / CONTENT_PATH), "-o", str(".." / DOCS_PATH)],
     cwd=QUARTZ_PATH,
     check=True,
 )
