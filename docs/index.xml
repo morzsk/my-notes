@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>My Notes</title>
+      <link>https://morzsk.github.io/my-notes/</link>
+      <description>Last 10 notes on My Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <link>https://morzsk.github.io/my-notes/</link>
+    <guid>https://morzsk.github.io/my-notes/</guid>
     <description><![CDATA[  Welcome to my notes, I typically dump whatever interests me at any moment. Right now it’s: Computer Science, and Mathematics. Take care!. ]]></description>
     <pubDate>Wed, 04 Sep 2024 23:00:00 GMT</pubDate>
   </item>

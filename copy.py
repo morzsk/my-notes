@@ -2,6 +2,7 @@ from pathlib import Path
 import shutil
 import subprocess
 
+# todo: put this into a ci/cd pipeline
 
 DOCS_PATH = Path("./docs")
 
