@@ -20,17 +20,14 @@ IMAGES_PATH = RESOURCES_PATH / "Images"
 MD_PATTERN = "*.md"
 IMG_PATTERN = "*.png"
 
-for path in LITERATURE_PATH.rglob(MD_PATTERN):
-    shutil.copy(path, CONTENT_PATH)
+def copy_files_to_content(dir_path, pattern):
+    for path in dir_path.rglob(pattern):
+        shutil.copy(path, CONTENT_PATH)
 
-for path in ARTICLE_PATH.rglob(MD_PATTERN):
-    shutil.copy(path, CONTENT_PATH)
-    
-for path in EXCALIDRAW_PATH.rglob(IMG_PATTERN):
-    shutil.copy(path, CONTENT_PATH)
-
-for path in IMAGES_PATH.rglob(IMG_PATTERN):
-    shutil.copy(path, CONTENT_PATH)
+copy_files_to_content(LITERATURE_PATH, MD_PATTERN)
+copy_files_to_content(ARTICLE_PATH, MD_PATTERN)
+copy_files_to_content(EXCALIDRAW_PATH, IMG_PATTERN)
+copy_files_to_content(IMAGES_PATH, IMG_PATTERN)
 
 subprocess.run(
     ["npx", "quartz", "build", "-d", str(".." / CONTENT_PATH), "-o", str(".." / DOCS_PATH)],
