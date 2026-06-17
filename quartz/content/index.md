@@ -9,7 +9,7 @@ cssclasses: []
 ![[index.png|50]]
 Welcome to my notes,
 
-I typically dump whatever interests me at any moment. Right now it’s: …
+I typically dump whatever interests me at any moment. Right now it’s: [[Computer Science]]
 
 Sometimes I write stuff like: [[On Knowledge]]
 

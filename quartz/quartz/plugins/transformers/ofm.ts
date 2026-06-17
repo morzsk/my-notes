@@ -22,6 +22,9 @@ import checkboxScript from "../../components/scripts/checkbox.inline"
 // @ts-ignore
 import mermaidScript from "../../components/scripts/mermaid.inline"
 import mermaidStyle from "../../components/styles/mermaid.inline.scss"
+// @ts-ignore
+import excalidrawScript from "../../components/scripts/excalidraw.inline"
+import excalidrawStyle from "../../components/styles/excalidraw.inline.scss"
 import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
@@ -262,6 +265,13 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     return {
                       type: "html",
                       value: `<iframe src="${url}" class="pdf"></iframe>`,
+                    }
+                  } else if ([".excalidraw"].includes(ext)) {
+                    // Excalidraw auto-exports to <name>.excalidraw.svg (keeps .excalidraw in filename)
+                    const svgUrl = slugifyFilePath((`${fp}.svg`) as FilePath)
+                    return {
+                      type: "html",
+                      value: `<div class="excalidraw-embed"><img class="excalidraw-src" src="${svgUrl}" /></div>`,
                     }
                   } else {
                     const block = anchor
@@ -778,6 +788,18 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           inline: true,
         })
       }
+
+      js.push({
+        script: excalidrawScript,
+        loadTime: "afterDOMReady",
+        contentType: "inline",
+        moduleType: "module",
+      })
+
+      css.push({
+        content: excalidrawStyle,
+        inline: true,
+      })
 
       return { js, css }
     },
